@@ -63,3 +63,12 @@ ok so it doesn't recognise it as a variable, weird.
 i moved it and now it's a variable. yipppeee.
 ![image](https://github.com/user-attachments/assets/f9ea67b6-e256-4161-a3ca-4c20d9072a6c)
 ayeee it works !
+
+# session 4:
+now i needed a way to be able to make holes in the drivebase tubes that aren't oddly spaced out, since my worry with linear pattern is that it's going to be quite wacky. 
+![image](https://github.com/user-attachments/assets/2ca0c0ae-1f7a-4be4-8bd8-f82d77ee4268)
+i tried to make some kind of formula for it, but it doesn't really work. i think that's because it's a decimal number returned. i don't know how to not make it wacky, which sucks.
+![image](https://github.com/user-attachments/assets/6702eeaa-6a51-41b7-be09-d75e3d6e455e)
+so i gave in and just used the tube converter featurescript to do it.
+![image](https://github.com/user-attachments/assets/ff163b63-093c-4235-bd0f-8cf13564668c)
+everything  has been assembled... then i realised, i forgot the bumpers. i didn't really know how to formulate it, so uh yeah, that's a problem for later.
