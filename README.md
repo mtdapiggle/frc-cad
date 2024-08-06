@@ -40,3 +40,26 @@ oof ok. i can't get it to automatically convert stuff for me.
 ![image](https://github.com/user-attachments/assets/17203213-ff53-473e-bd19-036e38c58542)
 i didn't knkow what to do from here, since it didn't have anything about configuring features. 
 ok, so i'm really dumb, i didn't realise that it was a variable that you put into things for it to work. i tried to subtract 214.6 mm from it (to account for swerve modules) but it said that i can't subtract.
+
+# session 3:
+i tried to subtract it when making the variable
+![image](https://github.com/user-attachments/assets/74df74c0-af8f-4b67-921b-678658e31780)
+it didn't entirely work. i checked the page about configurations and it didn't help. i could just input it as the correct length myself, but i want to be kinda lazy.
+https://www.youtube.com/watch?v=S5oKJOz_JJo
+i found this video, and i watched the entire thing, it seems that it is? possible to put expressions and stuff in variables, but i don't think it can work with the input variables.
+![image](https://github.com/user-attachments/assets/9cde54f2-73d4-4363-b91e-4d1c84b71ff1)
+i can do this in variable tables, but it just doesn't work for input variables
+![image](https://github.com/user-attachments/assets/5f2672be-1430-43e3-a7c7-cf19520e674a)
+what the flip... what am i meant to do...
+![image](https://github.com/user-attachments/assets/fb847a2e-3bd0-44b5-b602-6ea15199c287)
+WHAT. WHY. WHY DOES IT JUST RANODMLY WORKKKKKK
+![image](https://github.com/user-attachments/assets/7ae11412-d464-4ab8-8df9-22aec94349e2)
+ok so it doesn't just randomly work.
+![image](https://github.com/user-attachments/assets/7c1876d8-d2b5-40bc-a586-de1ba69cb088)
+ok well, after like the full hour of slowly losing my mind, i finally figured how to make it sorta work.
+![image](https://github.com/user-attachments/assets/edb8d205-013b-4533-96e6-0bb387919690)
+ok so it doesn't recognise it as a variable, weird.
+![image](https://github.com/user-attachments/assets/8d2cd77b-a96a-4517-b7a2-33f7475f6cc4)
+i moved it and now it's a variable. yipppeee.
+![image](https://github.com/user-attachments/assets/f9ea67b6-e256-4161-a3ca-4c20d9072a6c)
+ayeee it works !
