@@ -72,3 +72,25 @@ i tried to make some kind of formula for it, but it doesn't really work. i think
 so i gave in and just used the tube converter featurescript to do it.
 ![image](https://github.com/user-attachments/assets/ff163b63-093c-4235-bd0f-8cf13564668c)
 everything  has been assembled... then i realised, i forgot the bumpers. i didn't really know how to formulate it, so uh yeah, that's a problem for later.
+
+# session 5:
+![image](https://github.com/user-attachments/assets/7f62e747-f954-4670-b7d2-5363fbbc5e8c)
+i sketched the profile of the bumper, and now hda to try and come up with a formula or a way to make the bumpers change with the size of the drivebase. 
+![image](https://github.com/user-attachments/assets/39cc5467-38c2-4c9c-99de-ef34076d82d0)
+this should work.
+![image](https://github.com/user-attachments/assets/a32c387c-f26b-43e4-83c5-1ae541cd8201)
+something is wrong, and i also need to make the bumpers a bit higher.
+![image](https://github.com/user-attachments/assets/bd275d1b-1b05-46d0-8d4e-da477373601f)
+i don't know how to fix this. i probably need to reduce some dimensions, but i don't know by how much.
+![image](https://github.com/user-attachments/assets/bcbbda00-8137-4b86-9172-338e0dc9d7b8)
+this might work, but i'm not sure if it will.
+![image](https://github.com/user-attachments/assets/11e9c2ce-f8a1-497b-94f3-b4d194cd63b3)
+as expected, it didn't really work out well.
+![image](https://github.com/user-attachments/assets/181451da-40f3-4ec1-95d5-c44f5b82e8bd)
+ok so i got something big wrong, which is how i accounted for the swerve modules. i don't think i accounted for them correctly.
+![image](https://github.com/user-attachments/assets/caf47710-b5ed-4ac5-a26e-2563ae334d46)
+welp ok.
+![image](https://github.com/user-attachments/assets/c9ee6ddf-1359-4432-9e52-60176b3dfaf8)
+uh oh.
+![image](https://github.com/user-attachments/assets/cc26291e-fb24-4f5e-89a6-3393e3949592)
+now it fits nice and snug. (well i think that it would)
