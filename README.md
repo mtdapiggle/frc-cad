@@ -145,3 +145,36 @@ HOW DID IT SHRINK???
 ![image](https://github.com/user-attachments/assets/723fa6cd-b869-45c1-90c9-c8c325ec8b12)
 why does it still not work... i adjusted everything... WHY ISN'T IT WORKINGGGGG
 ![image](https://github.com/user-attachments/assets/7fbcc1bd-f0ff-4902-8377-8eaa90cbe72e)
+
+# session 8:
+why bumper break
+![image](https://github.com/user-attachments/assets/101e91c1-7d6e-4e78-ab5a-0800a3a81977)
+i adjusted the formula, and it still isn't right.
+![image](https://github.com/user-attachments/assets/c518bf1a-9379-43dc-a56a-6dfc56de9aa5)
+why won't this worrkkkkkkk.... after pondering this for like 10 minutes straight, i realised that it must be how the tube converter featurescript calculates holes and stuff. the length of the tube can change, but the positioning of the  holes won't change, unless it has enough space to add a hole, or it has too little space and removes a hole. i don't think there's really a way that i can change this, though.
+![image](https://github.com/user-attachments/assets/27bcac86-6b4b-4c82-a1ac-0a7bfbfa7d92)
+i may be able to tweak the pattern start and end margins and see if i cna make it work that way.
+![image](https://github.com/user-attachments/assets/a5c71576-805b-4200-98b8-be7f8ee199eb)
+OHHHHHH NOOOOOOOOOOOOOOOO
+![image](https://github.com/user-attachments/assets/a5e5fdaf-5101-4532-94c8-afdca0189ab9)
+luckily though, all i had to do was change the secondary axis of all of the fasten mates.
+![image](https://github.com/user-attachments/assets/f3d79795-0c11-466d-8db1-5d4259b72029)
+i think it's because i reduced the size too much, and now it's broken.
+![image](https://github.com/user-attachments/assets/0ba5e955-bc20-4967-8c5a-14c7ad9152d9)
+i don't think i can ever get it righttttttttt
+i have no idea how to fix this, because of the way that the tube converter works, i don't think it's possible to make a configurable drivebase. i don't even think that it's possible, even with doing it normally. unless, an idea that i have works (which it probably won't.)
+![image](https://github.com/user-attachments/assets/75a0f46c-8a6f-4e4f-ba0e-cd4c0fc8ee76)
+so the plan was to section off an area, and then put some holes on it, that will always stay in the same place.
+![image](https://github.com/user-attachments/assets/eb49904e-5899-443a-bbb8-a7fef7d5da43)
+NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+it doesn't work...
+![image](https://github.com/user-attachments/assets/7c9dab4c-10d6-48f4-b213-3d0b1a901907)
+i added 7.5mm to try and neutralise the wackiness.
+![image](https://github.com/user-attachments/assets/53debf0d-0e14-4086-9bd0-6f73e57f7677)
+ok, now i need to test if other lengths work.
+![image](https://github.com/user-attachments/assets/e6e52a56-96ba-4e6f-9cab-7d533580279b)
+cmon surely nothing goes wrong.
+![image](https://github.com/user-attachments/assets/b0915984-3045-4972-9760-1d352068e788)
+uh what. oh wait it only changes when you insert it.
+![image](https://github.com/user-attachments/assets/351db575-da45-4918-971e-408912ba4c47)
+well that's no good. it's my bedtime, and i can't fix it right now. 
