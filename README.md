@@ -1,4 +1,4 @@
-# frc-cad
+![image](https://github.com/user-attachments/assets/dbd7e4a8-6e01-4a87-9d1e-e9653c51e58a)# frc-cad
 bad frc cadding (top tier frc cadders number one fear)
 
 # session 1:
@@ -117,3 +117,31 @@ the bad thing is, is now i don't know how to make the permissions into edit.
 what ???
 ![image](https://github.com/user-attachments/assets/edc2911c-8be6-4a98-9065-f72305de27b0)
 ok all i needed to do was make it versioned. AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHAOSIFDJSALK;DFADKASDJFALSF;ASJF;ALSDJFASFAKSLFJA;LD
+
+# session 7:
+i realised that i had used the wrong configurations for the swerve drrive modules which will take at least 15 minutes to fix all of the fastens and the configs.
+![image](https://github.com/user-attachments/assets/82189d2a-1a3b-4a04-ba14-2c08352fe0fd)
+i also realised, that i had to adjust the height of the bumper again, since the configs had changed. i changed it, checked the rules and realised it had to be lower. i also decided to make a red and blue bumper configuration, and maybe a grey one for just any. 
+![image](https://github.com/user-attachments/assets/d1e867e1-8e89-4204-a0b1-3b947758f598)
+it looks like the tube goes slightly into the bumper, also generating the different coloured bumpers only changes it in the part studio, not the assembly.
+![image](https://github.com/user-attachments/assets/64174072-03e4-4f9b-b012-18283a53aa5e)
+just more things going wrong.
+![image](https://github.com/user-attachments/assets/9c4fd717-0a8a-4e25-bf46-6de88f7733fe)
+things are still going wrong.
+![image](https://github.com/user-attachments/assets/ad6491b0-0f5c-4c0f-abf0-8491fa0b56f1)
+why it no work !!!
+![image](https://github.com/user-attachments/assets/e528332d-8ac3-4171-a803-f2d0a626fecc)
+uhasdfajksf;ldsajflak;;fd
+i have no idea on what's making it go wrong
+![image](https://github.com/user-attachments/assets/11201636-fc2a-40e3-b4c6-1f050ba77644)
+![image](https://github.com/user-attachments/assets/a117a4f9-59e1-46e7-9d49-6a279f4a644a)
+WHATTTTT
+![image](https://github.com/user-attachments/assets/8180d67a-95e6-4f31-ac1c-d8f2ccbbbf9f)
+ok everything makes sense now.
+![image](https://github.com/user-attachments/assets/481013e0-eadb-406b-8029-9420388283a8)
+i extended it to 400, to check if it was a problem with the bumpers.
+![image](https://github.com/user-attachments/assets/2467150b-22d4-4718-a92d-5c1e4b583e39)
+HOW DID IT SHRINK???
+![image](https://github.com/user-attachments/assets/723fa6cd-b869-45c1-90c9-c8c325ec8b12)
+why does it still not work... i adjusted everything... WHY ISN'T IT WORKINGGGGG
+![image](https://github.com/user-attachments/assets/7fbcc1bd-f0ff-4902-8377-8eaa90cbe72e)
