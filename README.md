@@ -198,3 +198,18 @@ ok so apparently the bumper thing was just a one off bug.
 ok so now i'm trying to work on a way to make the size of the drivebase configurable when you import it, because you can only configure the size of the tubes in the part studio, not the assembly, and the whole aim of this was to save time when making a drivebase. 
 ![image](https://github.com/user-attachments/assets/d3ea0d46-a6ec-4343-98b5-fecc8324bdaa)
 it seems like assembly configuration variables don't show up in part studio variables. i can't even use it on sketch dimensions and stuff. 
+
+# session 10:
+i'm kinda confused on how i'm meant to do this.
+![image](https://github.com/user-attachments/assets/7c221a51-a575-4fd5-801c-49a4b20c8d60)
+NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO..... 
+well, it looks like i can't really make it configurable for the assembly, so i guess it'll stay that way. 
+i changed the name of the document to configurable drrivebase tubes, because it seems more fitting that way.
+https://cad.onshape.com/documents/1a55ea4feea5b5a643d644af/w/624c779a72b46dcdaae9ccdb/e/f824f45ba70116fe80c668a3
+here's the document.
+![image](https://github.com/user-attachments/assets/3eee0174-aef8-4e8b-97a1-fbfa616cb9be)
+thattt'sss a bit low...
+i fixed it quickly, and moved onto the hopper/indexing stuff. 
+i wasn't really sure where i wanted to mount it so i just randomly put it somewhere on the drivebase.
+![image](https://github.com/user-attachments/assets/9e4bf85a-332c-4248-b5e0-bf0d473e7b6b)
+i sketched this shape out, and added some dimensions that i felt would look right. i also used https://www.reca.lc/belts to calculate belt distances for the pulleys n stuff. (the larger circles are the size of the pulleys, the smaller ones are for bearings.)
