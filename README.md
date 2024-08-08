@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/dbd7e4a8-6e01-4a87-9d1e-e9653c51e58a)# frc-cad
+# frc-cad
 bad frc cadding (top tier frc cadders number one fear)
 
 # session 1:
@@ -178,3 +178,23 @@ cmon surely nothing goes wrong.
 uh what. oh wait it only changes when you insert it.
 ![image](https://github.com/user-attachments/assets/351db575-da45-4918-971e-408912ba4c47)
 well that's no good. it's my bedtime, and i can't fix it right now. 
+
+# session 9: 
+i was thinking about how to make bumper colour changes when i went to sleep, although without being able to access onshape, i couldn't really test any of my things, or play around with settings and stuff. 
+i had an idea to make an assembly configuration, which took the list input from the part studio
+![image](https://github.com/user-attachments/assets/c40a1e41-76cb-4a87-b515-a744263a9781)
+![image](https://github.com/user-attachments/assets/4a118765-4cc0-406d-bb6f-78893f188dc3)
+it workkkkssssssss !!!!
+i also went back to fix the holes that i couldn't fix before. 
+![image](https://github.com/user-attachments/assets/4b593963-896c-41d8-ba0d-98277c341e21)
+all i had to do was select the holes as exclude regions, because i think if tube converter sees any open area to place the center of a circle, it will. 
+![image](https://github.com/user-attachments/assets/a3704c21-1bac-4f09-8573-09aef694aab1)
+that's not good. 
+![image](https://github.com/user-attachments/assets/f78d9b2a-01a5-4686-9564-b93f5bcee130)
+well, ignoring that for now, the configurations work ! they are the correct size that i want them to be, which is really nice. 
+![image](https://github.com/user-attachments/assets/8157745d-21fb-4e3b-ba1c-bc1341f85598)
+ok so apparently the bumper thing was just a one off bug.
+![image](https://github.com/user-attachments/assets/07e97532-3c54-44b5-9f60-7de225d4a91d)
+ok so now i'm trying to work on a way to make the size of the drivebase configurable when you import it, because you can only configure the size of the tubes in the part studio, not the assembly, and the whole aim of this was to save time when making a drivebase. 
+![image](https://github.com/user-attachments/assets/d3ea0d46-a6ec-4343-98b5-fecc8324bdaa)
+it seems like assembly configuration variables don't show up in part studio variables. i can't even use it on sketch dimensions and stuff. 
