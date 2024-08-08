@@ -221,3 +221,15 @@ i didn't really want to constrain the hopper to anything just yet, since i didn'
 i sketched out teh extra features of the hopper. which are:
 ![image](https://github.com/user-attachments/assets/c103354b-b846-40e7-b8c4-bdae40efa691)
 the blue bit, and the red part. i assume the red part is used to save weight on the hopper/use less material. the blue bit i think is to keep the pulleys in line with each other (as in, make sure that the pulleys don't fall out/go random places), and to stop the balls from going over the belt. 
+
+# session 12:
+i started this session out by sketching the path that i kinda want the ball to take. it's gonna be quite scuffed
+![image](https://github.com/user-attachments/assets/ab0fb7f7-e6db-4432-b706-148dc9986f65)
+ok so i wanted the balls to go over the bumper, and over the swerve modules so they don't get damaged. i then kinda followed 2910's way of indexing balls, by making it a bit of a snake.
+![image](https://github.com/user-attachments/assets/81a6b378-461f-4f06-883d-291ba034b9d9)
+the snake is quite scuffed, the line above the snake is the bottom of the trench run, which i would hopefully like to get under, but that may not be able to happen, unless i make an adjustable angle shooter (which is too hard for me, although i could look at examples)
+![image](https://github.com/user-attachments/assets/0699435a-3964-4057-a8a8-4f751f43c1b1)
+i then added an outline of how the indexer would look like. i also added a line for where the hopper stopped. 
+
+![image](https://github.com/user-attachments/assets/0302ef43-faaf-4e0c-9ff0-98d86861ce45)
+uhhhhh.... pretty sure it's meant to end?
