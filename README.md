@@ -213,3 +213,11 @@ i fixed it quickly, and moved onto the hopper/indexing stuff.
 i wasn't really sure where i wanted to mount it so i just randomly put it somewhere on the drivebase.
 ![image](https://github.com/user-attachments/assets/9e4bf85a-332c-4248-b5e0-bf0d473e7b6b)
 i sketched this shape out, and added some dimensions that i felt would look right. i also used https://www.reca.lc/belts to calculate belt distances for the pulleys n stuff. (the larger circles are the size of the pulleys, the smaller ones are for bearings.)
+
+# session 11:
+really on that cad grind rn, locking in.
+i didn't really want to constrain the hopper to anything just yet, since i didn't know where i wanted to put my intake and stuff. 
+![image](https://github.com/user-attachments/assets/0aed544f-37c9-47da-abbd-1b472d3048a8)
+i sketched out teh extra features of the hopper. which are:
+![image](https://github.com/user-attachments/assets/c103354b-b846-40e7-b8c4-bdae40efa691)
+the blue bit, and the red part. i assume the red part is used to save weight on the hopper/use less material. the blue bit i think is to keep the pulleys in line with each other (as in, make sure that the pulleys don't fall out/go random places), and to stop the balls from going over the belt. 
