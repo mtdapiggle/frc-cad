@@ -332,3 +332,16 @@ tis a little too thick.
 i should stop making changes. 
 ![image](https://github.com/user-attachments/assets/f1db1f4e-dfb9-48ca-9689-19a7f10d21ed)
 i think i submitted it a little too late (extremely late, but it's fine also it's like 11 pm for me)
+
+# session 18: 
+![image](https://github.com/user-attachments/assets/4bc25f66-f9e2-4eda-b536-dd02b901ef19)
+i made the polycarb sheet for the inside, and made it transparent (yeah i know in the image it's not very transparent right now.)
+since i didn't really know what to kinda do next, i decided to try and think of mounting options for this. 
+i didn't really know how to mount this, considering how awkward it can be to mount the 2 surfaces, because they're perpendicular n stuff. 
+i was thinking of running 2 tubes parallel to the indexer and then somehow mounting both the hopper and the indexer to it, but i'm not sure how to exactly do that. 
+after like 20 minutes of spinning around in my chair and thinking about how to do it, i realised that i had forgotten about the 2910 cad. again.
+![image](https://github.com/user-attachments/assets/10190cc0-7866-49b3-bceb-3c7c3daa0b39)
+they had used the 2 tubes in parallel, and had some parts coming out of the indexer to mounnt to the tubes.
+![image](https://github.com/user-attachments/assets/a61558ae-cfb5-4da6-b500-21f064f7b372)
+i realised that there was a lot of space for me to extend the indexer. 
+also a big problem with the parallel tubes, since i will make an over the bumper intake, the mounting of the parallel tubes can't be on the drivebase, or it'd be too low. i don't know how to really mount tubes higher without making it an extremely sketchy setup, that would probably break immediately.
