@@ -345,3 +345,21 @@ they had used the 2 tubes in parallel, and had some parts coming out of the inde
 ![image](https://github.com/user-attachments/assets/a61558ae-cfb5-4da6-b500-21f064f7b372)
 i realised that there was a lot of space for me to extend the indexer. 
 also a big problem with the parallel tubes, since i will make an over the bumper intake, the mounting of the parallel tubes can't be on the drivebase, or it'd be too low. i don't know how to really mount tubes higher without making it an extremely sketchy setup, that would probably break immediately.
+
+# session 19:
+i'll make an example of how sketchy it can be and explain some stuff. 
+![image](https://github.com/user-attachments/assets/815ab1d8-2446-4380-8444-b5e121e76785)
+so usually, there'd be a gusset here to mount the tube (and one on the  bottom), but when the tube's higher up like what i need to do
+![image](https://github.com/user-attachments/assets/b426307e-580c-4fae-92a5-7e790c4641e0)
+if it's something like up here, there isn't really a way that i can think of to mount the tube effectively, without some kind of scuffed setup, since it'd only be the bottom gusset supporting the tube.
+i'd need to either extend the indexer mounts by 10 cm, which definitely isn't optimal, and the indexer is quite short compared to 2910's, since i'm using a hopper, so i have less area to make mounting points. looking at 6328's mounting of their hopper, 
+![image](https://github.com/user-attachments/assets/c7547c8f-12a5-4e1b-b57b-d5fffd496b0e)
+they bend their hopper downwards/angle it downwards, but i can't do that, since i'm using a swerve drivebase, which isn't as optimal since we'd have to bend it at a further point
+which is:
+![image](https://github.com/user-attachments/assets/cafa7e3b-bf35-4010-aa49-53ab0d064433)
+i'd have to bend it across that red line, or it'd interfere with the swerve modules unless i mount the hopper even higher, which isn't good. not  only that, but it'll stuff up the belts and do some really, really wacky things. the reason why 2910 cna mount their parallel tubes so low, is because they have a through the bumper intake
+![image](https://github.com/user-attachments/assets/60f74f61-6b3f-4816-a4c7-d0d4746c24e6)
+basically meaning that they cut out a section of their bumper and use the area to intake balls. (you can't see the bumper because i hid it to see more things.)
+so i tried researching how to mount them. it didn't yield any good results. 
+![image](https://github.com/user-attachments/assets/3084af2e-1089-4603-a4f6-a203021c6d9f)
+the only solution i cna think of right now is making a block on top/tube on the top of the drivebase, and then using gussets to connect the block to the side of the drivebase and the parallel tubes, but i'd probably be extremely scuffed and really, really weird.
