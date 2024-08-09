@@ -270,3 +270,26 @@ i had to manually click all of the lines, instead of selecting the sketch as the
 i made a scuffed pulley system for the inside, so that the balls will get powered all the way through the system. i'm not sure if this will work, and it probbaly will interfere with the hopper in some way, but i put a lot of thought into the positioning of the pulleys, so that it (hopefully) won't interfere toooo much.
 ![image](https://github.com/user-attachments/assets/80a2e995-dcd3-4cf8-bcfc-30fe0c3abebd)
 at the end, i also put some pulleys around the outside, to aid with powering it. i also added some holes for a neo v1.1 or v1, and decided to use a 60:12 gear ratio, since it would likely need a decent amount of torque, whilst the outer ones i think don't need too much torque. i may reduce the inner torque to like 50 or 40 or something, but for now it'll do. i also made the outline for a plate, and will do some part lightening on it. hopefully not as scuffed as last time. 
+
+# session 16:
+i'm having the craziest thunderstorm right now, so if i suddenly stop/don't do that much work this session, that probably means that i lost electricity, and have no more internet/wifi. 
+anyways,
+![image](https://github.com/user-attachments/assets/90b4b46f-b01f-4b8e-9f8f-8a807ddc2a81)
+hole too close to edge, bad. 
+![image](https://github.com/user-attachments/assets/346e426e-bfb6-4950-b9a5-00d645281eb2)
+i used the normal constraint a bunch, which is kinda rare, since the normal constraint doesn't have that much uses in frc desinging.
+![image](https://github.com/user-attachments/assets/bff2f1f1-21c8-472e-9614-ada5586907d0)
+noooo the laggggggggg
+![image](https://github.com/user-attachments/assets/f7c97d66-cd3a-430a-ad37-efb81ce25808)
+why it not solve.
+![image](https://github.com/user-attachments/assets/464d379c-b8c7-4aec-a41c-10df080af645)
+i kinda wanna fill in some gaps, and maybe add some moer ribs.
+![image](https://github.com/user-attachments/assets/67349373-72eb-4d3b-b4e0-88957d13c31d)
+100% not scuffed
+![image](https://github.com/user-attachments/assets/d8e3880a-30b9-4f2c-85a0-b0dc6c555e84)
+that looks kinda  ugly now.
+honestly i think diagonal lines would be nice, but might also clutte it too much, but i think it would be nice, but might clutte rtoo much, but nice.
+![image](https://github.com/user-attachments/assets/526cd14e-ca27-4a33-8559-431d79aea2f8)
+maybe just one moe line.
+![image](https://github.com/user-attachments/assets/f59f0417-b71e-4ed1-915c-0ad70232a4c4)
+peak.
