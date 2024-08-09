@@ -233,3 +233,12 @@ i then added an outline of how the indexer would look like. i also added a line 
 
 ![image](https://github.com/user-attachments/assets/0302ef43-faaf-4e0c-9ff0-98d86861ce45)
 uhhhhh.... pretty sure it's meant to end?
+
+# session 13:
+i didn't entirely know where i wanted to go from here, so i just started making some gearboxes for the hopper/figuring out gear ratios n stuff.
+i decided that high torque and low-medium rpm would probably be best for the belts, i looked up some gear sizes from https://wcproducts.com/collections/belts-chain-gears/products/aluminum-hex-bore-gears
+i also needed the pitch diameter, but i realised that i could calculate it by dividing the gear tooth amount by 20, since 20 is the diametrical pitch (aka DP)(basically diametrical pitch is how many teeth per inch of diameter, so if it's 20 DP, and the gear has 40 teeth, its pitch diameter would be 2 inches, and yes it's in inches, but onshape automatically converts inches to mm, which is nice.) (pitch diameter is basically the area where the gear will mesh with another gear.)
+i decided on 72:12 or 6:1, with the 12 tooth gear being the driving gear and the 72 tooth gear being driven. 
+![image](https://github.com/user-attachments/assets/5504c04f-0a1b-4101-87df-029014323f41)
+![image](https://github.com/user-attachments/assets/e96dce8e-074d-49f7-ab75-d97f61bc02a5)
+i added holes for a neo v1.1 or v1, bearing holes for the gears, and holes for spacers and stuff. it's quite scuffed, but i feel like it'll do for now. i might also add part lightening later.
