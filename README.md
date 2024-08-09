@@ -242,3 +242,25 @@ i decided on 72:12 or 6:1, with the 12 tooth gear being the driving gear and the
 ![image](https://github.com/user-attachments/assets/5504c04f-0a1b-4101-87df-029014323f41)
 ![image](https://github.com/user-attachments/assets/e96dce8e-074d-49f7-ab75-d97f61bc02a5)
 i added holes for a neo v1.1 or v1, bearing holes for the gears, and holes for spacers and stuff. it's quite scuffed, but i feel like it'll do for now. i might also add part lightening later.
+
+# session 14:
+i started off by making a couple of belts, and then extruding the small part out.
+![image](https://github.com/user-attachments/assets/6964becb-4536-45a2-94fe-c7575302b817)
+![image](https://github.com/user-attachments/assets/f21ce225-346d-4a89-91a5-a42cccbb28ff)
+then i tried making some part lightening ribs/where i wanted the ribs of the part lightening to be.
+![image](https://github.com/user-attachments/assets/0185eee6-5543-48d2-b7da-07f0d435a09d)
+i don't really like the look of this, because some things are just hanging off, and it didn't even follow all of my part lightening ribs. 
+![image](https://github.com/user-attachments/assets/9ba60914-23c3-4523-903f-86d50e1cbe01)
+surely it looks good, surely !
+![image](https://github.com/user-attachments/assets/3b9775d5-36de-4c11-8b1a-1565dd3b4948)
+it's pretty much the exact same, even though i added some more lines for ribs. this really confuses me right now.
+![image](https://github.com/user-attachments/assets/fc20ac59-a206-4f3f-b480-1c5e55c3f10c)
+btw, this is what it looks like right now. 
+i have no idea how to fix this, so i just started to think about what areas i want fixed.
+i wanted the area in the middle to be fixed. (the neo holes, and the bearing holes)
+![image](https://github.com/user-attachments/assets/e87a44f1-51e0-4d78-a6e8-40376ee47a58)
+yiiiiiipppppeeeeeee !!! although, there are a lot of problems right now. 
+![image](https://github.com/user-attachments/assets/293e5aa0-da02-4e13-ae8e-a1e02dda953f)
+aughaskjgdask;faskl;dfaslk;dj everything broke. ....j.sjafljaskdfjas;fd
+![image](https://github.com/user-attachments/assets/a3f56e49-c62b-4e6f-9fca-45882ec28f00)
+i had to manually click all of the lines, instead of selecting the sketch as the edges/lines of the thing.
