@@ -293,3 +293,42 @@ honestly i think diagonal lines would be nice, but might also clutte it too much
 maybe just one moe line.
 ![image](https://github.com/user-attachments/assets/f59f0417-b71e-4ed1-915c-0ad70232a4c4)
 peak.
+
+# session 17:
+i decided i want to put some lightening on the indexer sides, and maybe instead use polycarb or something to line the inside, because the metal can get quite heavy/lots of metal used. 
+![image](https://github.com/user-attachments/assets/34223ee2-f1b3-4c76-84fa-25dbe997577d)
+this is going to be extremely scuffed. i can already tell. 
+i'm having insane problems with positioning all the ribs evenly. 
+![image](https://github.com/user-attachments/assets/8a1f94c2-4e43-4f69-94c5-c13b5023988c)
+what the scuffed...
+i have no idea how to fix this. i went back and forth trying a bunch of different ideas to make it more even, and eventually, until like 40 minutes in i thought of a method that may? work
+![image](https://github.com/user-attachments/assets/4c9d9d8e-f532-4c36-893b-58f347831be8)
+SURELY THSI WORKS... PLEASEEEEE
+![image](https://github.com/user-attachments/assets/4970e1ba-567b-4405-8842-6c4178526936)
+ok uhhhh hmmm i think i need more ribs. i didn't think this through.
+![image](https://github.com/user-attachments/assets/e68a0eaa-f6c3-4bea-9579-415ad415f04b)
+surely nothing goes wrong.
+![image](https://github.com/user-attachments/assets/d2e5879a-b8db-4c0c-b1f1-4fc1235075ad)
+i probably should've looked at 2910's indexer part lightening, would've helped a lot more if i did that earlier. 
+![image](https://github.com/user-attachments/assets/a4252b34-9835-4928-9367-094ceca900c9)
+what the flip.
+![image](https://github.com/user-attachments/assets/3021b151-9604-4614-8df9-97582a935e23)
+IT'S SLIGHTLY OFFFFF AHHHHHHHHHHHHHHHHHHHHH
+![image](https://github.com/user-attachments/assets/650cd0cd-b8dd-46e3-8929-5bf081146f67)
+i decided to constrain all the points to lines.
+![image](https://github.com/user-attachments/assets/b12c5c1b-b42d-4ad6-b870-c260a3f49247)
+something... feels oddly wrong about it... i don't know what it is, but something just feels wrong...
+![image](https://github.com/user-attachments/assets/670f0cca-a10a-4445-9429-27603d11ba4e)
+i think that it's this big gap here. honestly i might put diagonal lines to cover some things, insetad of a bunch of vertical lines/horizontal.
+![image](https://github.com/user-attachments/assets/a1165ba4-4cd1-449d-bc52-287c22433080)
+looks kinda ugly.
+![image](https://github.com/user-attachments/assets/3bf36580-13c8-49e0-9180-c2cc4292b56d)
+ok maybe a bit too much. 
+![image](https://github.com/user-attachments/assets/d6e96af6-8760-4a1d-9763-fa1b15318c87)
+honestly i think i should leave it like this.
+![image](https://github.com/user-attachments/assets/2823e5b4-778d-441e-9954-bf65c610387d)
+tis a little too thick.
+![image](https://github.com/user-attachments/assets/03453d44-9cd6-4ac6-890f-e4923aed17df)
+i should stop making changes. 
+![image](https://github.com/user-attachments/assets/f1db1f4e-dfb9-48ca-9689-19a7f10d21ed)
+i think i submitted it a little too late (extremely late, but it's fine also it's like 11 pm for me)
