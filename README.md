@@ -264,3 +264,9 @@ yiiiiiipppppeeeeeee !!! although, there are a lot of problems right now.
 aughaskjgdask;faskl;dfaslk;dj everything broke. ....j.sjafljaskdfjas;fd
 ![image](https://github.com/user-attachments/assets/a3f56e49-c62b-4e6f-9fca-45882ec28f00)
 i had to manually click all of the lines, instead of selecting the sketch as the edges/lines of the thing.
+
+# session 15:
+![image](https://github.com/user-attachments/assets/d6215711-5ca4-4af7-acab-bc8e5a8a7e67)
+i made a scuffed pulley system for the inside, so that the balls will get powered all the way through the system. i'm not sure if this will work, and it probbaly will interfere with the hopper in some way, but i put a lot of thought into the positioning of the pulleys, so that it (hopefully) won't interfere toooo much.
+![image](https://github.com/user-attachments/assets/80a2e995-dcd3-4cf8-bcfc-30fe0c3abebd)
+at the end, i also put some pulleys around the outside, to aid with powering it. i also added some holes for a neo v1.1 or v1, and decided to use a 60:12 gear ratio, since it would likely need a decent amount of torque, whilst the outer ones i think don't need too much torque. i may reduce the inner torque to like 50 or 40 or something, but for now it'll do. i also made the outline for a plate, and will do some part lightening on it. hopefully not as scuffed as last time. 
