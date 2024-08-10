@@ -363,3 +363,20 @@ basically meaning that they cut out a section of their bumper and use the area t
 so i tried researching how to mount them. it didn't yield any good results. 
 ![image](https://github.com/user-attachments/assets/3084af2e-1089-4603-a4f6-a203021c6d9f)
 the only solution i cna think of right now is making a block on top/tube on the top of the drivebase, and then using gussets to connect the block to the side of the drivebase and the parallel tubes, but i'd probably be extremely scuffed and really, really weird.
+
+# session 20:
+aklafsjksadfk;laskfa;slfkasfdasfklsajdfsafklsajfasklfsdaf
+i could use like 90 degree brackets to help mount things, but it can/will/maybe get a bit scuffed. 
+i looked on andymark for some brackets that may work
+![image](https://github.com/user-attachments/assets/d4570d76-650a-4590-9327-188ce7dec862)
+this might? work
+i was planning to mount the brackets on the side of the parallel tubes, and have the tube rest on top of the drivebase tubes. one major problem is...
+![image](https://github.com/user-attachments/assets/315aa4d3-9d13-440b-901c-1f7e43a6ce5b)
+the bracket is too thick and the holes are too small. 
+so i had to look for more brackets. i couldn't find any other brackets that i could potentially use. 
+i searched through other websites, and found absolutely nothing. sdalfjklsa;dfjsaklfjs viopaj fiawmesipjod vud fjajfmpiocquwmep,jsafijdcasmfiojaspoawe,jxc,jsd
+the thing is, if i try to make my own bracket, it may not be strong enough, and it may not be machinable, but it's kinda my only choice. 
+![image](https://github.com/user-attachments/assets/beb5c777-a026-4b06-b874-0fa7e502821a)
+i made this bracket and called it the unmachinable part, because it probably is. i'd like it to mount on the sides of the tube and the bottom as well, just to secure the rigidity. i would also prefer if i could have like a triangle or some ribbing to help support it, but i know that isn't possible.
+![image](https://github.com/user-attachments/assets/8ce49399-4fa5-4ec7-92c0-f3e7df575edc)
+i decided that i wanted one mount at the front of the indexer and one at the back to help it. 
