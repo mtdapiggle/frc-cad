@@ -505,3 +505,30 @@ agrh that's also too close.
 and now it's slightly off in a different axis. 
 ![image](https://github.com/user-attachments/assets/7ae40608-b1c0-4337-b29c-d0a7055fef5b)
 YEAHHHHHHH
+
+# session 25 - the mystical 25 session mark:
+uh so i hit 25 sessions. YIPPPPEEEE!!
+![image](https://github.com/user-attachments/assets/77d35a40-7c33-4862-b50f-24a3cdde7d92)
+NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+![image](https://github.com/user-attachments/assets/e45a381d-7a40-43f5-9025-7818c372d5a3)
+NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO ASHJFIDJWOAI DFKL;LAJSDLKFJ ASKLDJFLKDSAF
+![image](https://github.com/user-attachments/assets/ea5169bc-6190-4779-80c2-beb2c8b65d17)
+tis all fixed now. 
+![image](https://github.com/user-attachments/assets/d6bbd106-888f-4e2e-99a1-4a66c96417ce)
+but here is scuffed
+i think i know the problem. the holes moved away from the center and it became scuffed. 
+OHHH WAIT NO IT'S BECAUSE I SHRUNK THE PLATE DOWNNNNNN OHHHHHH AND THEN THE LINES PUSHED THE CIRCLE TO BE SMALLLLERRRRRRRR
+![image](https://github.com/user-attachments/assets/58da7c4f-060b-4417-83e3-237291217c61)
+it's better now.
+![image](https://github.com/user-attachments/assets/3397c506-96b3-4c54-ae01-87ff0d3c0b69)
+aw heck nah
+![image](https://github.com/user-attachments/assets/5119ccd8-22d0-4340-968d-23123c78eccd)
+aw heck nah (i was adjusting the size of the hopper again)
+i was having a really hard time trying to make the hopper smaller, as the constraints were not going in my favour, and things were being quite wacky.
+![image](https://github.com/user-attachments/assets/fcf8fb4e-fc67-40d4-9455-62894f296920)
+i needed to somehow pull the hopper back.
+never frekaing mind after like 20 minutes of being an absolute dumbass, i realised that i was changing the wrong dimensions. 
+![image](https://github.com/user-attachments/assets/a9cce41d-3c83-4176-973c-13387d652247)
+barely not good enough.
+![image](https://github.com/user-attachments/assets/306d22ad-31c6-44fb-a436-7700a1a6db76)
+and its fine now.
