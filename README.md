@@ -380,3 +380,35 @@ the thing is, if i try to make my own bracket, it may not be strong enough, and 
 i made this bracket and called it the unmachinable part, because it probably is. i'd like it to mount on the sides of the tube and the bottom as well, just to secure the rigidity. i would also prefer if i could have like a triangle or some ribbing to help support it, but i know that isn't possible.
 ![image](https://github.com/user-attachments/assets/8ce49399-4fa5-4ec7-92c0-f3e7df575edc)
 i decided that i wanted one mount at the front of the indexer and one at the back to help it. 
+
+# session 21: 
+i wanted the mounts to be more secure, so i expanded the amount of holes that it covers. 
+![image](https://github.com/user-attachments/assets/ed84a916-110a-48d9-bb8b-0ff3e5222023)
+expansion
+![image](https://github.com/user-attachments/assets/be626b4c-e8cf-4d14-a8a0-acbdd7b0d769)
+epic mounting (maybe not idk)
+![image](https://github.com/user-attachments/assets/74ed87b9-cb43-4788-8a20-0898b187f9b7)
+mmm that's kinda ugly..
+![image](https://github.com/user-attachments/assets/c15e4214-a9c6-4dfd-acae-146ed16ddd7f)
+also ugly
+i didn't really know how to make it look  nicer. 
+![image](https://github.com/user-attachments/assets/f4392fde-0512-4998-9544-d440296ead4b)
+I'M A GENIUS. SURELY THIS DOESN'T LOOK BAD. 
+![image](https://github.com/user-attachments/assets/d6284b88-338a-4208-99f2-894a8dd2aa06)
+at 15 it's fine
+![image](https://github.com/user-attachments/assets/1fa16e6a-45ae-4fdc-85dc-2ffc8b1d6e88)
+but for some reason when i change it to 10, things break. 
+![image](https://github.com/user-attachments/assets/6fcea12a-5702-45c8-935a-ae7af9d81cee)
+i change this line to be perpendicular with the sloped line/angled line/line
+![image](https://github.com/user-attachments/assets/7854ea10-23e5-4e3f-a717-be9d2ff4bd0a)
+not good.
+![image](https://github.com/user-attachments/assets/db6edaf6-b36c-44ac-8d76-5e8aa4e389aa)
+even worse. 
+![image](https://github.com/user-attachments/assets/ec2f17ce-3d9b-45bb-8f70-a32912f56f35)
+not good either
+![image](https://github.com/user-attachments/assets/db17e515-b9d3-45d1-a3fb-0a9d3f20e1c3)
+by excluding this area it breaks
+![image](https://github.com/user-attachments/assets/84a30c1a-6705-429e-9847-2c9bccfdafcf)
+yiiipppppppeeeeeeeeee
+![image](https://github.com/user-attachments/assets/d082b5f1-d6f3-4a63-9fed-d2757adf1a38)
+i got started with the second mounting area. 
