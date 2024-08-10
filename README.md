@@ -437,3 +437,37 @@ epic !!!
 now i decided to try and work on hopper mounting (note, try)
 my current idea rn is standoffs, which will surely not be too bad, right? right???
 mounting might be scuffed, but surely with standoffs it wonn't be (fajsdlkfsa;lfdjksajdfk;alsjfs;kdfljasdk;lajsdf;lkasjfd)
+
+# session 23:
+![Screenshot 2024-08-10 172454](https://github.com/user-attachments/assets/ae1c8ae4-f0dd-46b2-83d9-42bb45224a90)
+aslkjfsakdjkfkjfaaks;;lksd;lkjadslkj;afd;lk;kdajfsafds
+i just wanted the 2 lines to be equal.
+![image](https://github.com/user-attachments/assets/8df82379-2d8b-4601-9550-fcd75000ad67)
+looks horizontal, but it isn't.
+![image](https://github.com/user-attachments/assets/77dd1ca8-4cdb-4d97-a607-9ba5230d76be)
+i think i want to change these areas.
+![image](https://github.com/user-attachments/assets/05ac6f60-0ddb-4839-aa77-d94b120e36b0)
+ima have to redimension eveything.
+![image](https://github.com/user-attachments/assets/7e2732fb-93cf-47f8-9af0-f6ad895bdd6c)
+i tied to mirror some lines across, but it just isn't mirroring.
+i think i found the problem. the mirror line isn't exactly in the middle of the drivebase. yes it's constrained to the origin, but the drivebase isn't on the origin. 
+![image](https://github.com/user-attachments/assets/0a074a45-3edd-4dd0-bc73-7662889934bc)
+ok it's fine ish now.
+![image](https://github.com/user-attachments/assets/03e066fa-b5dc-4029-9504-0c0020d08e53)
+the extrude broke wheni exited the sketch, meaning that the area isn't enclosed. 
+![image](https://github.com/user-attachments/assets/321f9745-9726-417b-9e1a-02e8ed4cf48f)
+found it
+![image](https://github.com/user-attachments/assets/016836fb-7d9f-4503-b22d-1bf57af95d30)
+i can barely do addition, but i don't think 99 + 99 = 187.
+![image](https://github.com/user-attachments/assets/e4008bcd-ea58-4ff6-a61a-47a69757d6e3)
+something's wrong here
+i don't really know how to fix this, as everything has been defined. 
+i had an epic idea like 5 minnutes later
+![image](https://github.com/user-attachments/assets/eba14e76-cf93-4e50-89d2-aa298af88481)
+i deleted the line and replaced it with a shorter line (wow) then mirrored it !!!
+![image](https://github.com/user-attachments/assets/b34dc2ea-41c5-43c5-874f-6317247d97c8)
+OHHHH NOOOOOOO
+![image](https://github.com/user-attachments/assets/e63d2e4f-9561-4e88-9989-8fa7f5b2ccb4)
+eveything is breaking.
+![image](https://github.com/user-attachments/assets/9c79b08c-9487-419c-8f24-2f48a5a0678e)
+everything is fine now.
