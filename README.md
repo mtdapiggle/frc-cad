@@ -412,3 +412,28 @@ by excluding this area it breaks
 yiiipppppppeeeeeeeeee
 ![image](https://github.com/user-attachments/assets/d082b5f1-d6f3-4a63-9fed-d2757adf1a38)
 i got started with the second mounting area. 
+
+# session 22:
+![image](https://github.com/user-attachments/assets/3a57d96a-2348-41ab-8e08-ca252abc9e9f)
+i made a second mounting area and adjusted the holes, since earlier i felt like i made too many.
+![image](https://github.com/user-attachments/assets/ea2dc97f-4ce6-4f58-b4a1-f2e7fa174cba)
+oh no.
+![image](https://github.com/user-attachments/assets/2d45afa1-fcf6-4539-98f6-21e5cd088fce)
+i decided to repair this manually, so i can get the result that i want.
+![image](https://github.com/user-attachments/assets/e9d66afc-c174-438f-a97b-38bb587758fa)
+uhhhh..
+![image](https://github.com/user-attachments/assets/5bbe55ab-bbbc-400d-a9ea-82cf33167b05)
+oh ok.
+![image](https://github.com/user-attachments/assets/ca79a04f-7e6b-4916-93bc-f95afb3baa77)
+trust me this isn't scuffed
+![image](https://github.com/user-attachments/assets/c41196d4-81ef-4098-9090-9f61aad3c6c7)
+critical flaw
+![image](https://github.com/user-attachments/assets/260df7bb-da9f-4810-ace6-7317e28b0ba1)
+it'd never be scuffed !!! i swear !!
+![image](https://github.com/user-attachments/assets/eaa00df8-8f29-4892-9ee2-8836f06f4f3e)
+i realised i could skip some lines.
+![image](https://github.com/user-attachments/assets/e51115b8-cc47-45e8-b4e6-7fed5fc74f8b)
+epic !!!
+now i decided to try and work on hopper mounting (note, try)
+my current idea rn is standoffs, which will surely not be too bad, right? right???
+mounting might be scuffed, but surely with standoffs it wonn't be (fajsdlkfsa;lfdjksajdfk;alsjfs;kdfljasdk;lajsdf;lkasjfd)
