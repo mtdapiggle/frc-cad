@@ -471,3 +471,37 @@ OHHHH NOOOOOOO
 eveything is breaking.
 ![image](https://github.com/user-attachments/assets/9c79b08c-9487-419c-8f24-2f48a5a0678e)
 everything is fine now.
+
+# session 24:
+now with everything ok/fine, i can move onto mounting the hopper.
+![image](https://github.com/user-attachments/assets/de791d0f-490d-4dd9-b42f-fb7a69ed6fab)
+i think i need more space.
+![image](https://github.com/user-attachments/assets/f6d28b56-7003-40f7-8aca-36b1f1e430b9)
+heck nah. 
+ok so i reduced it to like a 2mm gap between the indexer plate and the hopper. surely it ends well. 
+![image](https://github.com/user-attachments/assets/1bb60925-a839-4dde-8ae2-91433d6935f6)
+epic. 
+![image](https://github.com/user-attachments/assets/6bd91f2b-01d2-468d-a809-c4f5b6306f6b)
+i turned the side of the hopper plate around, and the other things also turned around. i also had to use an offset on the hopper plate, so i would have enough space to use the gearbox. 
+![image](https://github.com/user-attachments/assets/727a62d9-6bed-4367-bf6d-6b9a49e186d0)
+also this doesn't look right. 
+![image](https://github.com/user-attachments/assets/b9caad91-7042-4a55-871d-2e877d7d71f1)
+i think i'll adjust the gearbox first, before moving onto hopper mounting, since at the start, i wanted to use standoffs to mount the gearbox, but now that i've figured out a mounting for a bunch of things, i think i want to fix it to the parallel tubes. 
+now my problem is, is that i can't see where the parallel tubes are.
+ok nvm i can measure things (i'm dumb)
+![image](https://github.com/user-attachments/assets/02d3e9bf-109c-4026-9b65-1828ccc68234)
+i'm extremely dumb (i forgot to take 25 mm off the measurement because of hole distances n stuff.)
+![image](https://github.com/user-attachments/assets/6cd35f59-74a7-43cd-a2a2-2c23135fe511)
+the holes don't line up, but that doesn't matter. (ok it probably does actually)
+![image](https://github.com/user-attachments/assets/21b3fb34-e587-42c2-888c-7770e4e6112e)
+NOOOOO WHAT HAPPENED
+![image](https://github.com/user-attachments/assets/fddde603-fd49-4b0a-bd5f-38c334e57246)
+hell nah
+![image](https://github.com/user-attachments/assets/74e0c7aa-0f36-435c-87cb-4e4830f2bfa9)
+i did the measurements, what went wrong here. 
+![image](https://github.com/user-attachments/assets/fdfe3a97-b76f-4522-bc5d-e4b5f2b7f98c)
+agrh that's also too close. 
+![image](https://github.com/user-attachments/assets/79cb1bca-8a3c-4c69-84c7-557cd601ee83)
+and now it's slightly off in a different axis. 
+![image](https://github.com/user-attachments/assets/7ae40608-b1c0-4337-b29c-d0a7055fef5b)
+YEAHHHHHHH
