@@ -741,3 +741,21 @@ ok, problem, if i use the 20 tooth gear on the 12 tooth gear, i won't have enoug
 wait i'm dumb, you don't have to use all 8 holes to mount the motor, you only need 4 to be safe.
 uh, problem, the bearing hole itself is too big, and doesn't allow the 20 tooth gear to mesh with the 12 tooth gear. i realised that if i do some weird janky stuff, i can techinically mount the 50 tooth gear anywhere, so i moved it somewhere else. 
 jfsalkdfjasklfjafd i hate gears and pulleys, why are they so confusing, why can't they just be this thing power that thing.
+
+# session 34:
+ok so, i started to do the pulleys. 
+it's painful to adjust belt lengths and see what i need to get. 
+![image](https://github.com/user-attachments/assets/813345e3-c5a5-4284-88e0-58bcfa9d2257)
+what the abomination.
+![image](https://github.com/user-attachments/assets/93129216-94c6-4827-acfc-0846343ab279)
+average day where things go wrong.
+![image](https://github.com/user-attachments/assets/c031b298-0ba3-44ad-b72c-b706ab9b6f72)
+well everything is fixed now and done after 30 minutes... (why is this so slow)
+![image](https://github.com/user-attachments/assets/7008db28-7a8f-4d3e-9ab8-daffef28d9a3)
+i was getting some progress done with teh shooter, but i realised that i hadn't made the standoffs for the indexer. 
+![image](https://github.com/user-attachments/assets/68c56319-ae4a-4473-969d-cad2bcaa4e6c)
+hmmm that's a bit off.
+![image](https://github.com/user-attachments/assets/1224277c-d711-4632-8d1b-0ebc47a7f6dc)
+i gotta move it slightly more...
+![image](https://github.com/user-attachments/assets/19e0d71b-61b9-4ae6-b5f8-fd320da3f607)
+good enough.
