@@ -1,4 +1,4 @@
-# frc-cad
+![image](https://github.com/user-attachments/assets/86bfdf87-d5b3-4920-a86f-fa8c1e683e17)# frc-cad
 bad frc cadding (top tier frc cadders number one fear)
 
 # session 1:
@@ -558,3 +558,37 @@ i could guess by using dimensions but i kinda wanna find a more efficient and fa
 well i found it (it's the concentric constraint)
 ![image](https://github.com/user-attachments/assets/3ecdb1c5-2014-4731-9a8d-45e8e3b137c8)
 epic. 
+
+# session 27:
+session 27ing
+ok so i finished off the mounting holes. 
+![image](https://github.com/user-attachments/assets/0a5bbc8f-9c0f-4a7e-b599-3bf79ea467b1)
+epic.
+looking at 2910's cad i can see that they have standoffs for the indexer, so i decided to model those in.
+it was then that i also realised that i forgot to make holes for the indexer gearbox, since i thought i could use the equal constraint to constrain the size of the holes, and thought that there were holes for the gearbox. 
+![image](https://github.com/user-attachments/assets/d4dbd3b9-f984-4f23-8b83-4edda30bbbd3)
+there wasn't a lot of space to place any bolts/holes on the left side, because it was so filled up with other things.
+i also realised that the holes i had made for the motor were wrong. yipppeeeee....
+i had to search up the clearance holes for 10-32 bolts, but then i realised that i had a model of a neo motor, so i just measured it off of that. 
+ok it isn't 10-32, i'm kinda dumb, it's probably 8-32. anyways.
+![image](https://github.com/user-attachments/assets/b9985e4f-1bc8-4f65-9d66-413ae84214da)
+that's not good.
+![image](https://github.com/user-attachments/assets/5d4d5948-cc34-4341-b21e-4b00fc6c1649)
+i expanded the size of the walls of the indexer, so that i would have more space to mount things. 
+![image](https://github.com/user-attachments/assets/31d125f1-4f93-49a0-a37f-01a1db25ef3e)
+i think i might have to remove these gaps. 
+![image](https://github.com/user-attachments/assets/81dd8ba1-aeb4-4977-9f1c-f89af80279c4)
+bruh why cna't i select this area 
+![image](https://github.com/user-attachments/assets/9148a9d6-5840-497a-96d9-54d98e0b957c)
+epic.
+i think i want to make the gearbox larger.
+it's gonna  be a pain because of how i constrained and dimensioned everythingkgskdlfjkalsdjf;saasd;f i regret making some wacky constraints. 
+onshape is slowly dying on me, my internet sucks nad onshpae doesn't like it.
+![image](https://github.com/user-attachments/assets/907dd1e6-caba-453b-8f1e-cbdb30435ae2)
+i expanded it out.
+![image](https://github.com/user-attachments/assets/b6e083c2-e130-4dff-9d63-21946bfc1994)
+tis a  bit too much
+![image](https://github.com/user-attachments/assets/8a78ef19-2543-4fa3-a13c-f27bb57d34dd)
+uh oh.
+![image](https://github.com/user-attachments/assets/69e31a5e-8015-4074-b46b-27a5f3d5dc4e)
+somehow this hole got covered up.
