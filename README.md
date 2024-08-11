@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/86bfdf87-d5b3-4920-a86f-fa8c1e683e17)# frc-cad
+# frc-cad
 bad frc cadding (top tier frc cadders number one fear)
 
 # session 1:
@@ -616,3 +616,29 @@ i had no good ideas of how to make a fixed angle shoote.
 https://www.chiefdelphi.com/t/design-shooter/388925/16?page=2
 well i found this, after putting chief delphi in what i searched. i'm (not) so smart
 i read through the entire thing and it doesn't entirely tell me how to make a fixed angle shooter, but at least it helps. some people said that you would have to test it with prototypes to get the proper shooting angle, rpm of the motors and other things, whicih i can't really do because i'm working in cad, not real life. 
+
+# session 29:
+jalskdfja;sldfjasf;salkfjsaksad;fj
+the cad grind
+asjfdla;ksdjf;lksadfj
+i didn't really know where to start off with the fixed angle shooter. 
+i realised that i didn't knokw what angle that the fixed shoote would be at, so i had to find a cad of the 2021 field and look at wheer i wanted the obot to shoot from. i also read the 254 tech binder on strategy to sort of get a better understanding.
+uh so when i was downloading the field cad, i realised that there was an onshape link to the field. yyyyyyyiiiiiiiiiiippppppppeeeeeeeeeeeeeeeeeeeeeee.
+then i realised that it was the 2024 field, NOT THE 2021 FIELD
+![image](https://github.com/user-attachments/assets/80cd623a-0955-4d2f-aa18-51dd4a6cd6aa)
+i got scammed
+![image](https://github.com/user-attachments/assets/fd3a3328-b702-4eee-9e5a-8ef48461d14e)
+hmmm yes quite interesting.
+i think i want the robot to shoot from position 4, since it probably would be consistent there, and it says power shot, so i think it can fire some good shots there. it's also perpendicular to the goal, so that can mean better angles to shoot into the outer and inner goal.
+now i didn't really know how to get the angle that i wanted, considering that i might have to aim a bit higher, since the wheels probably won't be able to shoot it straight ahead. 
+i decided to copy the document so that i can draw lines and stuff and see what angle i need it to be at. it's probably going to take a long time. (it only took 1 minute, phew.)
+![image](https://github.com/user-attachments/assets/0cf6f12c-6acf-46bc-9a56-e850d04e89f9)
+hmmmm ok
+i just realised that i'm kinda (really) dumb i shouldn't measue from the floor. 
+![image](https://github.com/user-attachments/assets/1ce4918f-1ee7-40f5-9133-18e8d0a70b5d)
+ok cool, i went for 30 degrees. 
+![image](https://github.com/user-attachments/assets/baf2a4c3-5a27-4ca6-822b-c5ab629635b2)
+this should be enough space/area for me to work with.
+![image](https://github.com/user-attachments/assets/7664eec3-7a08-4547-91f2-7d1e32cb4cd9)
+i think i might have only one roller. this may have some results like spinning and stuff, but there's not much i can do. 
+
