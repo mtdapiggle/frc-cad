@@ -665,3 +665,29 @@ ooo i think i have a good idea, since the 2 gears are so close to each other, i 
 i'm so dumb for not realising this, but if i power the larger 60 tooth gear and then make it power the 45 tooth gear, the middle indexer belts wouldn't move because 2 of the pulleys would  be turning in opposite directions.
 sjklafklsafjs;klafdjsakfjsaklfsjafask;f this all makes no sensenseee
 i proceeded to spend the rest of the session just trying to think of ways to package this monstrosity, but i can't really come up with anything that i think would be effective. 
+
+# session 31:
+the thirty first session.
+so i'm really dumb, and i forgot that 2910's cad exists. 
+*sighs* ;slakdjfkajskldfjsa;fj;sklafjsad;lfjlskadfj;asfjksd
+![image](https://github.com/user-attachments/assets/4219a231-f2ce-49b4-819d-7ee8ff790d51)
+their gear setup looks like this on one side. 
+![image](https://github.com/user-attachments/assets/a6c8a484-29ef-49ae-8ce8-7e6722458b2a)
+and on the other side it looks like this. 
+looking at these pulleys, i realise that i probably could reduce the gear ratio, but i'm not sure.
+so i had to count some of the teeth of the pulleys, and it was extremely fun. some parts had their tooth count (only the gears) 
+https://www.chiefdelphi.com/t/help-with-gear-ratio-calculations/136627/4
+i found this thread, because i was having a hard time trying to calculate their gear ratio. 
+![image](https://github.com/user-attachments/assets/2c0ad672-7ff7-440d-b264-8e6b47b84cdb)
+mmm that's kinda high. 
+actually wait, it's even higher  because i forgot to add the pulley ratios. it's more like 14:1, which is really, really high. how am i going to do that? i don't know. 
+i spent even more time counting more teeth for pulleys, and the gear ratio for the outer indexer pulleys/belts/whatever is 1:1. 
+seeing this makes it even harder to package it for me. 
+i'm literally losing my mind...
+i wanted to take a break from the hell that is the gear ratios, so i decided to adjust some things
+![image](https://github.com/user-attachments/assets/a82eb52f-62b9-48e8-8a2c-ecbc32c0b519)
+i adjusted the indexer mounting to be larger for more holes, but lots of things broke.
+![image](https://github.com/user-attachments/assets/6f1769ca-ccd0-40cb-a05c-bee3238fe823)
+i also made the parallel tube smaller, so uh yeah. 
+![image](https://github.com/user-attachments/assets/18435e9c-d16b-4224-a5a3-db8cd62df323)
+WHATTTT THE FLIPPPPP
