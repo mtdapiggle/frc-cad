@@ -691,3 +691,29 @@ i adjusted the indexer mounting to be larger for more holes, but lots of things 
 i also made the parallel tube smaller, so uh yeah. 
 ![image](https://github.com/user-attachments/assets/18435e9c-d16b-4224-a5a3-db8cd62df323)
 WHATTTT THE FLIPPPPP
+
+# session 32:
+![image](https://github.com/user-attachments/assets/34bee200-d56b-415c-a5ba-4b2312fc6e1b)
+i managed to fix it all up. 
+i also had to change all of the different shafts.
+and then.
+i decided to go back to hell (aka packaging a scuffed as hell gearbox)
+after like 30 minutes of thinking over gear ratios, and debating if the 60 tooth gear is even needed, and wondering if i'm going insane, i eventually swapped to a 50 tooth gear, and then a 16 tooth gear to a 50 tooth gear, to get around 13:1 ratio, which is good enough to me to be honest. 
+this is just going to be so scuffed...
+i decided to tackle one thing at a time, and finish the gearing for the middle belts first, before moving onto the outer belts. 
+![image](https://github.com/user-attachments/assets/96eae7c3-c4ea-4cc2-a170-f9b80731d45b)
+it look sso weird now.
+![image](https://github.com/user-attachments/assets/92d566dc-1b9d-4b0e-9d58-eb22cf81450f)
+OH MY GOD SO MUCH RED.
+![image](https://github.com/user-attachments/assets/b828670c-7909-4043-8d8b-1e1ae87a58da)
+uh oh.
+![image](https://github.com/user-attachments/assets/353d7919-c68b-4028-96bb-8ecfa6785dd8)
+hmmmm still wacky
+![image](https://github.com/user-attachments/assets/1ae4dbe5-e461-481a-92ae-e3da883f5b30)
+i just realised that there arent enough holes for the neo.
+![image](https://github.com/user-attachments/assets/38f52662-0fe5-468a-80a6-3ab334d9ae6f)
+it says 6
+![image](https://github.com/user-attachments/assets/9aa984f7-febe-4266-b909-96d1da6c2461)
+but i put 8 ???
+I CAN'T EVEN DELETE THE THING, WHAT.
+onshape is straight up tweaking out on me.
