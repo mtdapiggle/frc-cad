@@ -642,3 +642,26 @@ this should be enough space/area for me to work with.
 ![image](https://github.com/user-attachments/assets/7664eec3-7a08-4547-91f2-7d1e32cb4cd9)
 i think i might have only one roller. this may have some results like spinning and stuff, but there's not much i can do. 
 
+# session 30: 
+i realised that i had forgotten to power some of the pulleys on the indexer, basically meaning that they would do absolutely nothing if i just left them like that. 
+![image](https://github.com/user-attachments/assets/81ae33c5-c15b-4e38-9beb-1e020264e388)
+UH WHAT. (turns out, i forgot to change it from inches to millimetres. epic.)
+i also realised that i needed to lower the gear ratio for the outer pulleys on the indexer, since it's currently 60:12 and i want it to be kinda lower, something like 45:12 could work.
+asjdfklfjasjdfklsafjska;fjsaklsajf;asd
+this gearbox is going to become even more scuffed i swear... i'm slowly losing my mind.
+![image](https://github.com/user-attachments/assets/ddb9bd87-e65e-447d-bc33-ce5afc48c3ec)
+i decided to move the larger gear up, so i (might) have space to place a smaller gear towards the bottom. 
+![image](https://github.com/user-attachments/assets/ca094cbd-5387-4002-960e-8d254f196507)
+OHHHH NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+the worst part is, i can't really make it so that the gears are able to turn the right way, because it's either that the middle indexer belts are turning in the right direction, or it's the outside indexer belts that are going i nthe right direction.
+ooo i think i have a good idea, since the 2 gears are so close to each other, i think i should make it so that the 60 tooth gear powers the 45 tooth gear and then everything would work. right?
+.
+.
+.
+5 minutes later
+.
+.
+.
+i'm so dumb for not realising this, but if i power the larger 60 tooth gear and then make it power the 45 tooth gear, the middle indexer belts wouldn't move because 2 of the pulleys would  be turning in opposite directions.
+sjklafklsafjs;klafdjsakfjsaklfsjafask;f this all makes no sensenseee
+i proceeded to spend the rest of the session just trying to think of ways to package this monstrosity, but i can't really come up with anything that i think would be effective. 
