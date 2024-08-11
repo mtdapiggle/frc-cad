@@ -532,3 +532,29 @@ never frekaing mind after like 20 minutes of being an absolute dumbass, i realis
 barely not good enough.
 ![image](https://github.com/user-attachments/assets/306d22ad-31c6-44fb-a436-7700a1a6db76)
 and its fine now.
+
+# session 26:
+![image](https://github.com/user-attachments/assets/9c374054-9110-4736-a7a1-94886ef130fa)
+i made the hopper smaller slightly more, to have more room.
+![image](https://github.com/user-attachments/assets/a17ea61f-f463-4cb8-bd06-585fa6f17bc1)
+the hole is lined up, but now there's not enough space. 
+the thing is, i can't adjust the size of the area that i reserved for the mounting, because it's the correct size. 
+![image](https://github.com/user-attachments/assets/6ac83b74-be9b-4bda-9f57-7ffe5f67866f)
+i think i see the problem, the indexer sketch isn't exactly on the middle of the drivebase, it's on the front plane, but the drivebase isn't centered. 
+![image](https://github.com/user-attachments/assets/9fe3afce-ae5d-413a-9927-abf0b542ec60)
+this should work
+![image](https://github.com/user-attachments/assets/3d904ebf-a530-4554-9310-4518c41662ec)
+yey its fixed !!!
+i also decided to clean up my sketches and extrudes, and naming them so i don't forget what is what. 
+![image](https://github.com/user-attachments/assets/e87cd3ee-6e47-4b8c-b6a4-21ebae88bccc)
+so i moved back to mounting, and i have a problem, which is that the red holes are smaller than the blue holes, because the swerve modules use (i think) #10-32 (imperial) bolts, whilst the drivebase has holes for M5 (metric) bolts, these two are different sizes, which means that it's going to be kinda scuffed, and the standoffs would need to be a different size as well. i didn't know how to really deal with this, since it could get kinda scuffed. 
+like 10 minutes later i realised i'm so frekaing dumb. 
+you can just drill holes.
+i'm so dumb.
+now i had to see what hole lined up on the hopper plate. 
+i didn't realy know how to get the holes to line up/know where the holes were on the hopper, since there was no way for me to dimension and stuff. 
+i could guess by using dimensions but i kinda wanna find a more efficient and faster way.
+![image](https://github.com/user-attachments/assets/31ef86cd-5c2b-4811-b93b-2cc409cb4e60)
+well i found it (it's the concentric constraint)
+![image](https://github.com/user-attachments/assets/3ecdb1c5-2014-4731-9a8d-45e8e3b137c8)
+epic. 
