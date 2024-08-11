@@ -592,3 +592,27 @@ tis a  bit too much
 uh oh.
 ![image](https://github.com/user-attachments/assets/69e31a5e-8015-4074-b46b-27a5f3d5dc4e)
 somehow this hole got covered up.
+
+# session 28: 
+![image](https://github.com/user-attachments/assets/5d4fe918-a41a-4fa5-b928-17a2bd4d905c)
+i'm really dumb. like literally room temperature iq. i didn't realise that i didn't need those holes on the right side, and that i probably don't need pocketing on the right side. i also need to make the holes on the top higher, so that they can actually have space to go into the indexer plate, or somewhere else. i don't know. 
+![image](https://github.com/user-attachments/assets/15326dfa-f65f-46a5-9972-10b8367b920d)
+looking at this, i think i also need moe holes on it, so it can be more secure. 
+![image](https://github.com/user-attachments/assets/ef0235e2-56db-49e2-84b1-ce9b6d4aeccc)
+epic. 
+![image](https://github.com/user-attachments/assets/c6e97bb2-f595-4751-8e07-3e8a3a6aae68)
+the gap here is too small, so i'm gonig to remove a rib or maybe move it. 
+i was confused on why i couldn't move it much, even afte ermoving most of the constraints. (it was a vertical constraint from somewhere else)
+asjdflaskfja;skfj;skldaf
+![image](https://github.com/user-attachments/assets/4d942cc5-a5ca-4418-9668-13c5f5640c09)
+ok cool good enough.
+i realised that i hadn't filleted some edges yet, so i filleted them.
+i decided to start on the shooter. 
+i had to plan a bit for this one, since most of the shooters i've seen are adjustable angle shooters, which are harder to make.
+i literally had to go to the 4th page of google, because i couldn't find anything. i didn't find anything on the 4th page
+jkasdflkajdflj;alskdfjas;ldkfjsak;lfsajdf;klsafja;sfjkasdf
+i honestly might make an adjustable angle shooter, but they confuse me too much.
+i had no good ideas of how to make a fixed angle shoote. 
+https://www.chiefdelphi.com/t/design-shooter/388925/16?page=2
+well i found this, after putting chief delphi in what i searched. i'm (not) so smart
+i read through the entire thing and it doesn't entirely tell me how to make a fixed angle shooter, but at least it helps. some people said that you would have to test it with prototypes to get the proper shooting angle, rpm of the motors and other things, whicih i can't really do because i'm working in cad, not real life. 
