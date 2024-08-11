@@ -717,3 +717,27 @@ it says 6
 but i put 8 ???
 I CAN'T EVEN DELETE THE THING, WHAT.
 onshape is straight up tweaking out on me.
+
+# session 33: 
+i reloaded the page to see if it'd fix but
+![image](https://github.com/user-attachments/assets/1f8a5547-b0fb-4254-9a4e-ea40e4ea4b1c)
+my god bro onshape is straight up dying right now.
+ok so from what i can think right now, the motor has to spin clockwise from the side with the indexer plate, for the middle belst to work. 
+i was originally going to power the outer belts through the 50 tooth, and then use belts to get it over to the outer belts then reduce it down to like 1:1. then i realised, that it probably isn't effective at all, and it'd probably be better for me to just use some different gears to pull it off. 
+actually, now that i think about it, it may be possible to attach like a 16 tooth gear to the 50 tooth
+oh wait nevermind, because it'd be 1.3333:1 in gear ratio.
+wait, i can use pulleys.
+i'm so dumb. i can just use pulleys to reduce it.
+okie dokie, so i don't have enough space to attach a 16 tooth pulley to the 50 tooth, buuuutttttt
+i could attach one to the 12 tooth pinion. maybe, just maybe, SURELY it works. 
+16:12 is 4:3 or 1.3333333:1 in gear ratio... wait isn't that the same as the 50:16 uh well yes it kind of is, close enough in my opinion.
+i decided to use a 42 tooth pulley, and an 18 tooth pulley that's a 18:42 ratio
+then i realised, that pulleys don't calculate ratios the same way as gears do, so i decided to make the gear larger, to 20 tooth, and then  calculate things again. 
+20:12 is 5:3 or 1.6666:1. i also decided to increase the pulley size from 18 to 24. that, surely will work, right???
+i also realised that i cna move some holes into the corners. so i quickly moved some holes around. 
+![image](https://github.com/user-attachments/assets/9c694508-972f-433e-8d46-6e26be061bcd)
+epic.
+ok, problem, if i use the 20 tooth gear on the 12 tooth gear, i won't have enough space to mount the motor, so i have to move some things around. 
+wait i'm dumb, you don't have to use all 8 holes to mount the motor, you only need 4 to be safe.
+uh, problem, the bearing hole itself is too big, and doesn't allow the 20 tooth gear to mesh with the 12 tooth gear. i realised that if i do some weird janky stuff, i can techinically mount the 50 tooth gear anywhere, so i moved it somewhere else. 
+jfsalkdfjasklfjafd i hate gears and pulleys, why are they so confusing, why can't they just be this thing power that thing.
