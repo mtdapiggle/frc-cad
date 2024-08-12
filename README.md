@@ -801,3 +801,20 @@ well i fixed it, but idk how to really fillet this edge without it being scuffed
 i had an idea to make some lines on where the fillet could be, and tried to make a fillet but it didn't work.
 ![image](https://github.com/user-attachments/assets/f535cc7c-56d4-4bd3-a0b9-6c38d98b49eb)
 ok so i had to extend some  lines intead.
+
+# session 36:
+this is gonna be a short session because i gotta sleep soon. 
+i kinda need to figure out a way to power the shooter, i think i'll do it through belts, although i think i want to look at some examples first, so i don't mess up like previous times.
+![image](https://github.com/user-attachments/assets/f111181d-8a53-48b1-b6da-4b471b41e36b)
+ok so 2910's shooter wheels are powered by 2 falcon 500 motors, which is one of the best/most powerful motors in FRC. their pulley ratio is around 0.7:1 or 7:10, in simple terms, wheel go fast. 
+![image](https://github.com/user-attachments/assets/bbef2a3e-3d28-4956-8164-fbcd1b22adc5)
+254 also uses 2 falcon 500 motors, and it's a 1:1 ratio. 
+![image](https://github.com/user-attachments/assets/2b087367-92cd-4bcb-8ebf-1907da15bec2)
+6328 uses 2 neo motors, which are like middle of the road/pretty reliable and standard motors, and a gear ratio of 0.66:1 or 2:3
+it's gonna be really hard to compress all of the motors and pulleys and stuff, holy this is going to be incredibly scuffed. 
+![image](https://github.com/user-attachments/assets/a366f77b-df26-41aa-82f9-9ecc144a21d5)
+i found this pulley for neos. it should suffice. 
+![image](https://github.com/user-attachments/assets/02ad7cd6-4100-44f4-a2c7-0b0735c99980)
+alkfjda;fl this gonna be so scuffed i swear.
+![image](https://github.com/user-attachments/assets/e08dd877-aa9e-4ad5-a79f-d1c7a39db08e)
+asdklfjalskfdjsa;dfjaslkd;fa yipppee
