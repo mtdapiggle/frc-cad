@@ -857,3 +857,26 @@ ima go look at examples of intakes now.
 1678 uses wheels to intake and pistons to deploy. i can't really understand what is going on, and how it works compared to the others because a bunuch of things are transparent/kinda transparent.
 ![image](https://github.com/user-attachments/assets/2bb4c2b0-aac0-498d-99e6-9db23ad0d771)
 for 4414, i have no idea how their intake deploys, what i do know/what i can tell  is that they use wheels to intake. 
+
+# session 38:
+![image](https://github.com/user-attachments/assets/5291d8d0-1fab-4ec3-811d-a9f34b929668)
+on the side of 4414's intake, i can see this thing. i think that there's like a pin or something that slides along the piece, but i'm not sure how it even retracts.
+there's literally nothing attached to it, other than the intake.
+i decided to watch some games that 4414 participated in 
+https://www.youtube.com/watch?v=S78mJ4DjnDk
+i watched this video, and i saw that the intake was able to stow all the way up, and then go downwards to intake. i have no idea how they do this, since the arm isn't connected to anything that can make it move. like HOW. HOW DOES IT MOVEEE.
+https://www.youtube.com/watch?v=Sy9afD-bew8
+this is their promotional video/robot reveal
+![image](https://github.com/user-attachments/assets/56946fe3-56fb-4e5f-aacd-7fb19d5b27e6)
+ohhhh so it moves through pistons
+ok wait nevermind, that isn't the right robot (the 2020 and 2021 seasons were the same game, 2020 was cancelled due to covid)
+i had to look for their 2021 robot.
+https://www.youtube.com/watch?v=EjCz7m7TRaM 
+ok so apparently the intake just doesn't move. that would've been nice to know. i gotta check the 2021 rules for frame perimeter, since i'm not sure how far that intake can extend over the bumpers. 
+![image](https://github.com/user-attachments/assets/ddda58be-4a4b-4961-ba14-ab69d0ce4d3c)
+hmmm ok 30 cm. that should be enough space. maybe?
+ok yeah it should be, the diameter of the ball is around 18 cm.
+i have no idea where i'm going to mount this, or how i'm going to start the intake.
+i decided to start by sketching where the rollers/wheels would have to go. 
+![image](https://github.com/user-attachments/assets/2c3b850a-2479-462a-830c-01cea9f0627e)
+general sketch/outline.
