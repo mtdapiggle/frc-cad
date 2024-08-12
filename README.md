@@ -818,3 +818,42 @@ i found this pulley for neos. it should suffice.
 alkfjda;fl this gonna be so scuffed i swear.
 ![image](https://github.com/user-attachments/assets/e08dd877-aa9e-4ad5-a79f-d1c7a39db08e)
 asdklfjalskfdjsa;dfjaslkd;fa yipppee
+
+# session 37:
+the 2 neo motors will be on opposite sides, meaning that i won't have to cad 2 areas on the gearbox for motors. 
+i forgot that i hadn't made onen of the crucial parts of the indexer, the  bottom of it. without the bottom, the balls would just fall out. which isn't good.
+![image](https://github.com/user-attachments/assets/e74e1d6c-1d6a-4b7a-8359-5089e8fe1745)
+ok now that i look at this, uh... it looks quite scuffed. 
+![image](https://github.com/user-attachments/assets/bfb56fe9-48fb-42f4-8dd3-2cfc4fc1a077)
+better
+anyways back to doing the bottom of the indexer.
+![image](https://github.com/user-attachments/assets/f09d3de0-713a-4d1d-933a-12aa77e83e0a)
+OHHHHH NOOOOOOOOO (i drew a new shape on the indexer sketch and it broke everything.)
+![image](https://github.com/user-attachments/assets/4cc54f35-ee2f-45aa-bbd4-ea274b5c8e75)
+it collides with the hopper a bit, then i realised that i could've just fused the hopper and the bottom of the indexer together, to make it more simple and easy. 
+![image](https://github.com/user-attachments/assets/cf8db1f7-590a-445f-a9f2-7ad36e658b20)
+epic.
+![image](https://github.com/user-attachments/assets/7db7aaf3-3433-468b-9334-1acee4435387)
+those holes are just slightlllyyyy off. 
+![image](https://github.com/user-attachments/assets/d245a35d-2ec5-4e82-ada1-8404156330a2)
+should be fine now.
+![image](https://github.com/user-attachments/assets/f13ff08d-d9b4-4f0d-9f9d-f22f9ff09f85)
+nevermind i added when i should've subtracted.
+![image](https://github.com/user-attachments/assets/c5eee5a4-81f7-43d7-bf5f-af23ac7b8a64)
+huh... what the flip. 
+oh i think i took minimum or maximum distance insetad of center distance. 
+![image](https://github.com/user-attachments/assets/5a21e844-6f34-4972-ba38-cfba510b0b77)
+finallllyyyyyyy.
+ok so, i think i have to move onto the intake now, since i think everything else has been done. i of course have to assemble everything together, which can take a while, but for now that's not what i have to do. i honestly also might make a belly pan (basically the bottom of the robot to make sure nothing falls off like electronics n stuff.) but since i won't be adding in all of the electronics, (probably only going to keep motors and stuff.)
+my parents are asking me to do my schook work right now (i've been doing too much cad 😭)
+ima go look at examples of intakes now. 
+![image](https://github.com/user-attachments/assets/0759be7d-7fe3-4330-86ba-6407266daf7a)
+2910's intake is deployed by pistons. it uses mecanums to center the  ball, then it takes it in using belts. 
+![image](https://github.com/user-attachments/assets/48e5b0a8-9d79-4131-83f6-005a8e156b37)
+6328's intake is just some rollers that intake the ball, and then  the hopper centers the balls. it's deployed using pistons
+![image](https://github.com/user-attachments/assets/322b6665-5ad7-4393-be03-86477bd44f9e)
+254 uses wheels to intake the ball and pistons to deploy.
+![image](https://github.com/user-attachments/assets/33f6d44d-c324-48f1-9ed6-6ec23831ce7d)
+1678 uses wheels to intake and pistons to deploy. i can't really understand what is going on, and how it works compared to the others because a bunuch of things are transparent/kinda transparent.
+![image](https://github.com/user-attachments/assets/2bb4c2b0-aac0-498d-99e6-9db23ad0d771)
+for 4414, i have no idea how their intake deploys, what i do know/what i can tell  is that they use wheels to intake. 
