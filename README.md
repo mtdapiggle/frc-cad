@@ -759,3 +759,45 @@ hmmm that's a bit off.
 i gotta move it slightly more...
 ![image](https://github.com/user-attachments/assets/19e0d71b-61b9-4ae6-b5f8-fd320da3f607)
 good enough.
+
+# session 35:
+i wanted to make some space on the ribs for the standoffs, so i had to make the circles on the indexer rib sketch
+![image](https://github.com/user-attachments/assets/76f0c1bc-69d2-4076-9dc4-82609a961bc2)
+epic.
+![image](https://github.com/user-attachments/assets/a715d644-7ba4-4d6b-96ce-8bfb501ade1f)
+uh so nothing changed. i think i have to change some of the settings. 
+![image](https://github.com/user-attachments/assets/7b7bddf9-d2ab-4ea0-8940-52d828e22a2c)
+that's.... maybe too much, the thing is, i can't change the rib size or it'd change the rib size for everything.
+![image](https://github.com/user-attachments/assets/22c04fd4-1357-4dcd-8049-96ac1496f1cf)
+i mean it's alright, but i think i want it to be larger.
+![image](https://github.com/user-attachments/assets/a0fc78c3-4936-4d44-aec9-bdb6b3905304)
+epic. 
+![image](https://github.com/user-attachments/assets/d9e618d3-795e-4136-b5f3-b8215920f3d7)
+ooo that's kinda scuffed. 
+![image](https://github.com/user-attachments/assets/9d5fcfdc-0a5c-4540-a370-6d8e1ef112a5)
+that's not good either. 
+it's all fixed now. i think i want to adjust the bearing hole, or add something to  it so that it looks  better. 
+![image](https://github.com/user-attachments/assets/a60f4ea8-d871-4a85-9249-f44d8d2fcd13)
+why is this not a face. what???
+![image](https://github.com/user-attachments/assets/0bfa4d50-6639-4d22-8a7d-4d277ad22819)
+i think i might also put the bearing slightly away from the plate. 
+![image](https://github.com/user-attachments/assets/e073eb42-388f-47fa-8260-091389af31c4)
+uhhhhhh
+![image](https://github.com/user-attachments/assets/29dbef7b-8a41-4ab5-8dd8-7d50f0ae3f55)
+uhhhhh that don't look too good. 
+![image](https://github.com/user-attachments/assets/5f792a90-3b9b-485b-b0f9-d3f1d239f3d2)
+welp.
+![image](https://github.com/user-attachments/assets/2c7b0205-3b34-4ebf-ad50-c8167b3cde8b)
+epic.
+![image](https://github.com/user-attachments/assets/f2ad1a7e-9053-48b5-adac-ed844007d7c3)
+IT'S SO SMALL BUT IT ANNOYS ME SO MUCH... AHHHHHHHHHHHHHHHHHHHHHHHH
+![image](https://github.com/user-attachments/assets/1e82da87-8442-4e4b-a07a-fbd1403e526a)
+everything should be fine.
+![image](https://github.com/user-attachments/assets/e02f8793-547e-42ec-8e06-0ab5e7f67281)
+NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+![image](https://github.com/user-attachments/assets/9171bd31-c2b1-4697-9275-09124a7ab8ed)
+well i fixed it, but idk how to really fillet this edge without it being scuffed. 
+![Screenshot 2024-08-12 180040](https://github.com/user-attachments/assets/c7112859-ef19-4f18-918b-a8069e231ab2)
+i had an idea to make some lines on where the fillet could be, and tried to make a fillet but it didn't work.
+![image](https://github.com/user-attachments/assets/f535cc7c-56d4-4bd3-a0b9-6c38d98b49eb)
+ok so i had to extend some  lines intead.
