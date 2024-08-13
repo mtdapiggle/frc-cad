@@ -992,3 +992,22 @@ uhhhhh...
 ok cool.
 ![image](https://github.com/user-attachments/assets/158f0bcd-aa5d-4c18-af81-7162ee139814)
 some things are brokennn
+
+# session 42:
+![image](https://github.com/user-attachments/assets/a809039a-96ad-4cb5-a830-cc45a20e9b09)
+bruh it refuses to work. even if i try changinng wall thickness and rib thickness, it still doesn't work.
+changing rib thickness to something really low like 0.1 mm makes the existing ribs smaller, but doesn't make any new ribs. changing wall thickness to someting low makes new ribs, but at the trade off of removing too much stuff. 
+line 1000
+i think i might just not change anything with it, and keep it like that. (not like i can change it much anyways.)
+now i need to move onto plate mounting
+this is going to be fun, because i didn't put any holes on the side of the drrivebase tubes, this is going to be 100% speculation on the hole patterning, but it doens't really matter since nobody's going to make this. ok, well maybe not 100% speculation, but around 30%.
+![image](https://github.com/user-attachments/assets/717d15f4-15dd-4aab-b63d-ac087adcbcd0)
+that should be good. ok, time to assemble i guess. 
+![image](https://github.com/user-attachments/assets/76dfbeda-e2ba-425e-bf60-eb8fe5f79244)
+and it broke.
+i think i'm just going to remove the part lighten.
+now, back to assembling.
+right now it's such a pain to look at the amount of holes so i can mount things in the right spots. 
+ok so i quickly realised that i hadn't made an area for me to mount the indexer gearbox on.
+![image](https://github.com/user-attachments/assets/42287664-9576-4d06-9211-01adf2835ed3)
+it's going alright.
