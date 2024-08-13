@@ -909,3 +909,44 @@ taht might be a bit much
 this should be good enough. 
 ![image](https://github.com/user-attachments/assets/eab16091-79ac-4422-b7aa-31d89b26ab18)
 i think i'll add some more belts over the top, to make sure that hte ball can't escape.
+
+# session 40:
+![image](https://github.com/user-attachments/assets/f1cde672-baad-4c8e-ae9c-c750a036d736)
+okie dokie, now i need to make a frame for the intake and eventually mount it. 
+![image](https://github.com/user-attachments/assets/963aaf8d-9051-48a0-8134-70a929cc7241)
+i can already feel how scuffed i'm going to make this. 
+![image](https://github.com/user-attachments/assets/0663aff8-c284-4f9e-bd8b-6e8e43a7150f)
+i think i probably need to change a couple of things tbh. the mounting from the drrivebase to the first pulley is kinda scuffed, i think i also need to connect the mounting a bit to the 2nd belt/pulley
+![image](https://github.com/user-attachments/assets/36034c0b-5263-4e3d-a46d-88d64a51a151)
+i guess this kinda works, but i think i want to smoothen some things out.
+![image](https://github.com/user-attachments/assets/6f93ef89-7021-4a64-8c49-eb3b1122314b)
+it seems alright? ish, i feel like something just wrong about it, but i don't know what it is. 
+![image](https://github.com/user-attachments/assets/27fb529c-21ff-493b-8694-eae90d9d6c99)
+oh that's going into the swerve modules. 
+i think i want to look at examples of intakes to see how they sort of shape their intake plates. 
+![image](https://github.com/user-attachments/assets/ec55ad15-fd35-42ec-b41d-5a1418f20127)
+4414 did this. the problem i have is that i don't know how to not mount the plates onto the drrivebase tubes, since that's like the only way i can/know how to do it. they mounted their intake plate somehow to their bumper backing (which is wood)
+![image](https://github.com/user-attachments/assets/9a5090fd-e888-48dd-a8a3-f2d15516a1d7)
+how did this happen.
+![image](https://github.com/user-attachments/assets/ba512cbc-8e41-4180-a309-30898d9d0a3d)
+why's everything breaking
+i think it's just easier to delete them adn then redo it, instead of trying to fix it.
+no matter what i do, i just can't seem to find the right shape for the plate.
+fjlksjf;alsjfdasfjalsfkdals;fdjaskfjd this is slowly stressing me out.....sjdklfjsa;dfalksjsa;fdjaklsdf
+![image](https://github.com/user-attachments/assets/271e4ada-4930-4eab-b613-5050acc7ad5a)
+i think i might just make a large circle. 
+![image](https://github.com/user-attachments/assets/454711af-beb5-4e99-ad95-3972d2f98110)
+why do complex line things when you can do big circle
+![image](https://github.com/user-attachments/assets/7d85326f-c135-49eb-a522-00bb30b942c9)
+this is so peak
+![image](https://github.com/user-attachments/assets/2cf6ba61-4d67-4d67-b01f-e859819f373b)
+anddd it interferes with swerve modules. yiipeee.
+![image](https://github.com/user-attachments/assets/f4c0534d-b80f-455b-aa36-f0321b575f61)
+i feel like hte line that is dimensioned as 200 is being stretched out quite a bit, but there's not much i can do about it. it has to fit somehow.
+![image](https://github.com/user-attachments/assets/72b5cfc7-0cab-44c2-a3d4-ed366d26905a)
+aw heck nah
+i managed to fix it
+![image](https://github.com/user-attachments/assets/8982f162-509b-46a8-b6eb-0024782ba83d)
+welp new problem.
+![image](https://github.com/user-attachments/assets/b337888a-4f9d-49df-b37d-a2eb863bebc4)
+the problem was literally this one small piece/area. why.
