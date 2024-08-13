@@ -950,3 +950,45 @@ i managed to fix it
 welp new problem.
 ![image](https://github.com/user-attachments/assets/b337888a-4f9d-49df-b37d-a2eb863bebc4)
 the problem was literally this one small piece/area. why.
+
+# session 41: 
+![image](https://github.com/user-attachments/assets/dc57bfdc-080e-4dcf-9c10-48949d422dbc)
+WAIT WHY DOES THIS HAVE CORNERS.
+![image](https://github.com/user-attachments/assets/ce7a1c9e-f040-4209-895a-dc39436945f5)
+ah wait nvm it's just because my graphics settings are on low, which makes circles do that.
+hmmmmm well, time to figure out motor mounting, plate mounting, then it'll be onto assembly (aka the biggest pain ever)
+i might do a bit of lightening on the plate, but if something hits it then it'll probably take a lot of damage, so i'll flip a coin on it. 
+![image](https://github.com/user-attachments/assets/12cc523f-6ab1-42d6-9f7b-27e8a6aa9971)
+nooooooo 😭 lightening my goat (i'm still going to do lightening anyways)
+i think i'll do some lightening on the thicker areas, to make sure everything doesnt immediately explode the moment it gets hit. 
+![image](https://github.com/user-attachments/assets/e1150a36-ea69-47d5-8d7a-ce9c1ee5fe26)
+i think this might be good, not sure though.
+![image](https://github.com/user-attachments/assets/ac47f64c-a089-4b80-a22e-dda7cf79a9a6)
+ok so the external line doesn't work (i thought it would do it, but honestly it's kinda fair that it doesn't, since i didn't specify a face for it.)
+![image](https://github.com/user-attachments/assets/f8c5bf28-dab8-422e-bb46-1bd130d724f8)
+second problem is this
+![image](https://github.com/user-attachments/assets/b11a19a7-28a6-4ba8-9f14-b7c83477e269)
+some gaps are still left, even if i amp the wall thickness up by a lot.
+![image](https://github.com/user-attachments/assets/1a754e87-07b7-4442-891d-197df74d0f75)
+not scuffed, i don't know what you're talking about.
+![image](https://github.com/user-attachments/assets/8583c902-716a-48eb-a5c4-02f05290ae73)
+gotta fillet some edges first
+![image](https://github.com/user-attachments/assets/38101856-d74a-4001-8596-21c011405e2a)
+i gotta add some more ribs, adn fix up some of the ribs.
+![image](https://github.com/user-attachments/assets/943817de-a9da-4ca2-a0c0-c428db882815)
+i think i wanna adjust this a touch. 
+![image](https://github.com/user-attachments/assets/ac9da8d1-3667-4a08-a405-a0022b19bb57)
+lightly scuffed
+![image](https://github.com/user-attachments/assets/e3d0a168-286c-4de8-9a58-2ca7bb18b985)
+that actually kinda worked. ok so i guess imago focus on motor mounting. i'll probably do 1:1, or maybe something like 1.5:1 
+ok what i might do is, because of scuffed bearing placements and stuff, i think i'll do a 12 teeth motor pinion, into a 24 tooth gear, and then use pulleys to reduce it.
+![image](https://github.com/user-attachments/assets/d6cee47a-a2b1-4ed8-aff4-fccf1357c342)
+that's scuffed.
+i think i'm going to do a 30 tooth gear.
+i decided on 42 tooth pulley to a 24 tooth pulley. 
+![image](https://github.com/user-attachments/assets/4c6225f4-79bb-480d-a03f-daa2937f6778)
+uhhhhh...
+![image](https://github.com/user-attachments/assets/aaa1bf32-f2d4-4fc0-82c3-b0f493e04cb4)
+ok cool.
+![image](https://github.com/user-attachments/assets/158f0bcd-aa5d-4c18-af81-7162ee139814)
+some things are brokennn
