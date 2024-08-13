@@ -1011,3 +1011,19 @@ right now it's such a pain to look at the amount of holes so i can mount things 
 ok so i quickly realised that i hadn't made an area for me to mount the indexer gearbox on.
 ![image](https://github.com/user-attachments/assets/42287664-9576-4d06-9211-01adf2835ed3)
 it's going alright.
+
+# session 43:
+more assembling i guess, there won't be much talking/typing, since assembling shouldn't have too many problems (hopefully.)
+![Screenshot 2024-08-13 220114](https://github.com/user-attachments/assets/203e522e-9b3c-4f9d-996a-e949e4283d7a)
+guess and check please save me
+![image](https://github.com/user-attachments/assets/30b0a1b9-e6ae-4198-8c18-281b70f55dcb)
+ok, problem i just realised, the ball may not go onto the hopper, or it may get stuck somewhere, because i was kinda dumb and didn't realise how far above the hopper is from the bumpers. 
+![image](https://github.com/user-attachments/assets/e7430c84-5653-4bf4-88aa-ba8873d0f61e)
+when i was checking for the holes for the gearbox on the hopper, i realised that they aren't aligned. 
+![image](https://github.com/user-attachments/assets/30faa0cc-7f8e-4e06-94c2-95ddcda90b8d)
+AW HELL NAH.
+![image](https://github.com/user-attachments/assets/1aa33715-2c8c-42fc-a5f4-00af2e89d65a)
+omg it was all misaligned in the part studiooooooooooooo.
+i used the mirror tool for the tubes, but now i have to fix the flow-on effect.
+![image](https://github.com/user-attachments/assets/f0a33ca0-f45a-4e35-a385-cfb34519a36c)
+jlksdjfaslkdfjsadfl;asdjf;saldfjsadflkasdfjasldfkjaslkfjwioreuqwpoitueqwiotuqioweutwioetupwoqite
