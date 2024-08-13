@@ -880,3 +880,32 @@ i have no idea where i'm going to mount this, or how i'm going to start the inta
 i decided to start by sketching where the rollers/wheels would have to go. 
 ![image](https://github.com/user-attachments/assets/2c3b850a-2479-462a-830c-01cea9f0627e)
 general sketch/outline.
+
+# session 39: 
+i think i want to increase the compression between the wheels and the ball. 
+![image](https://github.com/user-attachments/assets/d384d57f-d740-4be0-86db-eb0ab281759d)
+i think i want to figure out some belt stuff now, and then move onto mounting later on.
+![image](https://github.com/user-attachments/assets/8dfd112a-a168-4dcd-bf24-e87133e0d978)
+2910 uses a 24:16 ratio or 1.5:1 for their belts and wheels, basically wanting a bit of torque but not too much. 
+![image](https://github.com/user-attachments/assets/c061a09a-3731-4cf4-92d1-ee3c4482407f)
+4414 uses a 1:1 ratio. 
+![image](https://github.com/user-attachments/assets/26f58b2e-9ab5-4540-a673-10f1cb304db7)
+1678 has this setup (i'll count the gear teeth, maybe.)
+(it goes across the entire robot to get to the intake)
+uhh so they have a falcon 500 with a 14 tooth pinion which goes into a 52 tooth gear (52:14) and then it goes to a 1:1 ratio of pulleys
+![image](https://github.com/user-attachments/assets/5d4f2c68-37a2-4909-a196-b446307b09e9)
+![image](https://github.com/user-attachments/assets/ae27f4b6-280d-4ce0-a75a-824231650878)
+and then it goes to these orange rope thingys, which i think is called polycord, i'm not sure how to calculate the ratio for this, so i'll calculate it as if it's a pulley, because it seems like it'd be calculated like a pulley. it's just 1:1 
+all of the other pulleys in their intake is 1:1, so basically it's 52:14 for their intake. 
+![image](https://github.com/user-attachments/assets/cbb67d74-af41-41bc-8fca-11df93a1a207)
+i think i'll use these pulleys. 
+![image](https://github.com/user-attachments/assets/8e45fb17-2ec4-42e2-a07c-3ce840386690)
+so many circles...
+![image](https://github.com/user-attachments/assets/68b9846a-2d71-4b64-a30b-78c948d59f6f)
+oh no
+![image](https://github.com/user-attachments/assets/7c668000-fda7-4322-aa71-a9090130ebf9)
+taht might be a bit much
+![image](https://github.com/user-attachments/assets/831e5ca6-3229-4c9c-a451-66049d7a211b)
+this should be good enough. 
+![image](https://github.com/user-attachments/assets/eab16091-79ac-4422-b7aa-31d89b26ab18)
+i think i'll add some more belts over the top, to make sure that hte ball can't escape.
