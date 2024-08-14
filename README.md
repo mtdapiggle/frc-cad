@@ -1138,3 +1138,44 @@ i don't know how to change the angle without guessing and checking...
 so after like 10 minutes
 ![image](https://github.com/user-attachments/assets/a982bc77-4fdb-42f3-9dcd-2ca7a0221bcb)
 i'm so smart (not)
+
+# session 46:
+it's session 46
+![image](https://github.com/user-attachments/assets/d7312dd4-7c66-486f-9ee9-422feb89cc60)
+ALSO OH MY GOD IT JUST KEEPS GOING UP...
+![image](https://github.com/user-attachments/assets/5fcc962d-0db0-4cdd-a209-095d544751b5)
+dude i'm going to  have my downloads absolutely FILLED with cad files of this, and each of em are going to be
+![image](https://github.com/user-attachments/assets/26193526-8768-4bd3-8d33-3e776097fe6a)
+THEY'RE GONNA BE LIKE 700 MB EACH.. (luckily i can delete them, but holy, my storage is only like 500 GB or something)
+al;skjdfalskfjsaldf oh well.
+not much i can do.
+![image](https://github.com/user-attachments/assets/6a136e93-f716-41a1-a2e4-3de25b330bea)
+also uh...
+oh well, nothing i can do about it. 
+![image](https://github.com/user-attachments/assets/c0adcb1e-cc0d-4549-bfc1-07d6ce01e7f3)
+ok, uh i'm kinda dumb.
+![image](https://github.com/user-attachments/assets/d0137122-defa-4d55-9682-e9db3d03b14d)
+ok well i tried.
+![image](https://github.com/user-attachments/assets/4443667d-b12f-4423-9596-6f1cd901a2c5)
+that's... not going to work.
+![image](https://github.com/user-attachments/assets/4d1669b0-39bc-4a82-b4f9-2bb5c86f1713)
+time to guess and check.
+![image](https://github.com/user-attachments/assets/622def28-37a5-4df4-a1ab-51e94f7872be)
+i mean if nobody looks tooooo closely, it's fine.
+![image](https://github.com/user-attachments/assets/108d3dbd-1734-468d-9e23-45557da4150a)
+why's it misaligned....
+time for more guessing and checking.
+![image](https://github.com/user-attachments/assets/b8b1e00b-1f14-497d-b650-b50389e917a1)
+alright cool.
+![image](https://github.com/user-attachments/assets/83fac5f9-b214-4110-a0a0-5a839895b4b2)
+it's still slightly off.
+![image](https://github.com/user-attachments/assets/3623ca79-931c-4252-bd08-733040cbd2eb)
+yep things are breaking.
+![image](https://github.com/user-attachments/assets/52dcc97f-3c37-481e-ae56-4a1a1c19b1e9)
+and it's not even aligned.
+![image](https://github.com/user-attachments/assets/9939bcd2-9738-42fa-b6c0-ce96aa8d3576)
+ok so the problem was that i had mounted the gearbox on the wrong hole. time to revert some things.
+![image](https://github.com/user-attachments/assets/ac696c28-411d-4f50-ab4c-7ad704672f0e)
+cool close enough.
+![image](https://github.com/user-attachments/assets/154fa139-00dc-40aa-a33f-0df5e01bb949)
+epic.
