@@ -1027,3 +1027,38 @@ omg it was all misaligned in the part studiooooooooooooo.
 i used the mirror tool for the tubes, but now i have to fix the flow-on effect.
 ![image](https://github.com/user-attachments/assets/f0a33ca0-f45a-4e35-a385-cfb34519a36c)
 jlksdjfaslkdfjsadfl;asdjf;saldfjsadflkasdfjasldfkjaslkfjwioreuqwpoitueqwiotuqioweutwioetupwoqite
+
+# session 43: (the second part)
+(the second part)
+![image](https://github.com/user-attachments/assets/79c73556-a587-4c21-b9bc-328be5571580)
+the holes are now in the right area (or, well are horizontal to each other/vertical/idk)
+now i just need to change some things.
+![image](https://github.com/user-attachments/assets/1e1fab12-c87a-40e5-a8c1-00336d5b74a1)
+i decided to make the plate wider, since things were becoming too small and too compacted.
+![image](https://github.com/user-attachments/assets/b12b1dc7-7ec0-4da1-90fc-6bda2b03d4c5)
+part lightening is a bit scuffed, and it's not lined up :(
+uh so i minused the hole distance that was measured, instead of adding it. 
+i'm smart like that. 
+![image](https://github.com/user-attachments/assets/51f62e7a-8ed2-4fd2-8ac2-e49943f6ab01)
+i added it, and now it's too large...
+![image](https://github.com/user-attachments/assets/d917cbc5-738f-41ad-a26e-4a36e2e85428)
+bruh...
+i think i know the problem
+the amount that i measured from the hole to hole distance was accurate, it's just that i had minused something before, and then replaced it with the new dimension/distance, basically making it longer because there is no longer the minus thing to balance it out.
+![image](https://github.com/user-attachments/assets/3239ba99-aadf-43fc-86fa-8fafdb520fb3)
+ok epic, time to change the part lightening.
+![image](https://github.com/user-attachments/assets/0f2d9144-eb26-44b5-a262-2b74a87c8c06)
+i think i might add some diagonal lines.
+![image](https://github.com/user-attachments/assets/b385b598-c2fb-4964-8f15-749aff5de8b0)
+this is PEAK.
+i feel happy with this.
+i think i'll feel happier when i complete assembly (it's gonna be a pain.)
+![image](https://github.com/user-attachments/assets/b3395031-e3c5-4c31-bbe9-b445f45d273c)
+OHHH WAIT NOOOOOOOOOOOOOOOOOOOOOO
+![image](https://github.com/user-attachments/assets/723c8c69-f569-4bf2-92f7-dc799aba7c2e)
+whathtatatatatatat
+ok. i have a crazy idea.
+i'm going to measure the distance between the tubes
+and then use that for the measurement of the gearbox, instead of taking the measurements between the hole on the gearbox and the hole on the tube. 
+![image](https://github.com/user-attachments/assets/dde016ca-9c5d-49d5-97e3-9a55a3485c53)
+dude i'm so smart.
