@@ -1062,3 +1062,38 @@ i'm going to measure the distance between the tubes
 and then use that for the measurement of the gearbox, instead of taking the measurements between the hole on the gearbox and the hole on the tube. 
 ![image](https://github.com/user-attachments/assets/dde016ca-9c5d-49d5-97e3-9a55a3485c53)
 dude i'm so smart.
+
+# session 44:
+i looked in the arcade-help channel, and found out that i had to commit .stl/.step files every session this is going to be a pain, because i thought i only had to commit them at the end of the project.
+oh well.
+ima commit some stuff right now
+i won't include stuff like belts or standoffs for now, since that'd be a pain to do, and you don't need like 10 different orientations of the same sized belt. 
+![image](https://github.com/user-attachments/assets/f6f5d6da-c8cd-4b46-82ea-5fc8c04aa7a2)
+where's the export button :(
+![image](https://github.com/user-attachments/assets/bc883c14-2fc4-42fa-b648-2399c83d480b)
+either i'm straight up blind, but i swear there's meant to be an export button.
+![image](https://github.com/user-attachments/assets/b0d06abb-3cf8-49a3-a23e-e3f8da2d81b1)
+well apparently i needed to right click the part name thingy.
+anyways, time to go back to doing assembly
+![image](https://github.com/user-attachments/assets/1cd6d928-5ad8-42a0-94ad-18a5577e2fa3)
+NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+![image](https://github.com/user-attachments/assets/700aaeab-222c-446a-878c-83abe55f4681)
+apparently only the fastened was the problem, but i can't seem to click on the tube's mate connector. 
+ok nevermind, it's being fastened by fastened 22, i can just delete fastened 21. 
+i decided to put bearings in all of the bearing holes now, and then work towards getting all the stuff on the shafts down.
+![image](https://github.com/user-attachments/assets/a2f227a9-e91a-477b-8398-ebeec5e08153)
+bearing.
+there's so many bearings and bearing holes.. i feel like it'll take a year to get this all done. 
+![image](https://github.com/user-attachments/assets/380dcd50-6d56-4489-a318-a8a2b5211634)
+there's so many of them....
+![image](https://github.com/user-attachments/assets/14ebb6d0-4f9a-492e-8c16-473359d45034)
+OHHH WAIT NO I FORGOT ABOUT THE HOPPER BECAUSE I MADE IT HIDDENNNNN
+asdfasdfsdafsadfsafasdsaf 
+more.. clicking... asdfjaskldfjasklfd
+![image](https://github.com/user-attachments/assets/1179925a-3554-44ae-a9f9-d5cbdf0e667a)
+there's like no neo pinions... what..
+i think i might use the 12t 20dp cim pinion, because it looks like it has a key like the neo. (btw a key is like a thing that allows the motor to spin things, because the motor's shaft is circular, if it doesn't have the key it just spins and doesn't do anything.)
+![image](https://github.com/user-attachments/assets/c6c53a3c-b717-4c42-bd47-2c0870bd5be9)
+and it fits perfectly.
+![image](https://github.com/user-attachments/assets/b70f4686-00c4-47c3-a9b6-509a25dd64fc)
+2 gears.
