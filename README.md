@@ -1,4 +1,4 @@
-# frc-cad
+![image](https://github.com/user-attachments/assets/e546df2f-d9d8-46d3-9d4c-b6b308a0bf08)# frc-cad
 bad frc cadding (top tier frc cadders number one fear)
 
 # session 1:
@@ -1097,3 +1097,44 @@ i think i might use the 12t 20dp cim pinion, because it looks like it has a key 
 and it fits perfectly.
 ![image](https://github.com/user-attachments/assets/b70f4686-00c4-47c3-a9b6-509a25dd64fc)
 2 gears.
+
+# session 45:
+spinny
+one thing i didn't account for with the 42 tooth pulleys, are that you have to put bearings in them for them to interface with the hex shaft. 
+i searched for solutions to fix it
+ok nevermind, you can use a versahub for it to work. (a versahub is like an adapter.)
+![image](https://github.com/user-attachments/assets/b1140896-1a22-4e5e-9472-42a925a2157d)
+can't really see it from this angle, but it fits.
+![image](https://github.com/user-attachments/assets/506203d5-19ea-4cd1-88e6-89a529ed7d51)
+it's all coming together.
+i realised that i didn't make a lot of the different shafts that i would desperately need.
+also while i'm in the part studio, i decided to change a couple of the structural things.
+![image](https://github.com/user-attachments/assets/6852b0c0-4fcd-45c9-9b4e-1cf78fbb2943)
+mmmm yes.
+![image](https://github.com/user-attachments/assets/ec32acba-a1df-4d01-a1c6-b621e5d7474c)
+today i find outu that you don't need a point, you can just select the edges of a circle and it'll put it in the middle.
+ok, i think i've got all the shaft lengths, time to get back to assembling.
+![image](https://github.com/user-attachments/assets/9514e0b5-4416-4c26-8ea5-265670dc0163)
+oh man it's going to be fun trying to figure out which length of hex is the right length.
+![image](https://github.com/user-attachments/assets/4bbcd066-9e22-4556-94f6-b5d8d0e36c0d)
+ok so i underestimated the length that i needed.
+ok nevermind, i clicked the wrong shaft length.
+![image](https://github.com/user-attachments/assets/7236c077-b40e-4272-837b-e9f78cd46cee)
+hmmmm it seems a bit short.
+mmmm, yeah it was way too short, by a long shot. 6328 used around 100mm between their hopper and the pulley.
+![image](https://github.com/user-attachments/assets/9fcb69af-5dd3-4426-a159-0a6ce93868fb)
+now that feels too tall.
+![image](https://github.com/user-attachments/assets/fdc69d26-28c8-4b90-b566-eae19d49335b)
+well uhm... that's not entirely good. (6 seconds D:)
+![image](https://github.com/user-attachments/assets/c2d1e742-6e55-4649-af56-d20b9dc10c1f)
+that seems good.
+![image](https://github.com/user-attachments/assets/a3a760bb-46cb-4903-a0bb-5f973916ad0b)
+ooooo it's all coming together...
+![image](https://github.com/user-attachments/assets/61360fa0-bfdc-4708-8e8c-477235c2dcc9)
+i have to use 2 fasteneds here because the angle is scuffed, and i can't just turn the secondary axis to easily put it in.
+![image](https://github.com/user-attachments/assets/b04d36e5-6c6c-4716-9fb6-a2a30c0e1d9e)
+jaskldfjafklsadfjasfklsjdafklas;dfj i can't do it.
+i don't know how to change the angle without guessing and checking...
+so after like 10 minutes
+![image](https://github.com/user-attachments/assets/a982bc77-4fdb-42f3-9dcd-2ca7a0221bcb)
+i'm so smart (not)
