@@ -1179,3 +1179,64 @@ ok so the problem was that i had mounted the gearbox on the wrong hole. time to 
 cool close enough.
 ![image](https://github.com/user-attachments/assets/154fa139-00dc-40aa-a33f-0df5e01bb949)
 epic.
+
+# session 47
+no colon this time
+![image](https://github.com/user-attachments/assets/5bc23097-efe0-44ff-8c5f-e41309172f83)
+ok so there's some things wrong here. the difference between the 2 sides are quite apparent. (right side has the orange hex shaft being shorter/lower, and the grey one being a too high up, as nothing sticks out from the bottom.) i'm kinda confused on why this is happening, so i checked the fasteneds associated with the hex shafts and the thing going across the top.
+![image](https://github.com/user-attachments/assets/9e95207a-d553-4c2a-a268-1d10a3862b93)
+ok, so the problem was that i had no offset on the fasten for the thing going across the top. 
+i also had fastened the grey hex shaft to the wrong side of the bearing.
+![image](https://github.com/user-attachments/assets/d3963752-dd6f-4299-8dae-82bd999c4bac)
+i fastened it to the top, when i should've fastened it to the bottom.
+![image](https://github.com/user-attachments/assets/442de034-2ccd-474e-a694-8d7d85aa3cc4)
+all pulleys for the gearbox and stuff are in place.
+![image](https://github.com/user-attachments/assets/b3e482a3-9b0e-4982-971f-392e4c674faf)
+the pulleys are in place. 
+![image](https://github.com/user-attachments/assets/5bdaa4fe-7f56-4ff6-af14-11ad65d49b64)
+whar. i thought i selected the right belt. ok turns out that i did select the right belt, but the problem is, the mate connectors are kinda scuffed.
+![image](https://github.com/user-attachments/assets/8337cbe4-d94b-408a-8049-a3bced00471f)
+hmmmmmmmmm
+![image](https://github.com/user-attachments/assets/88989200-1d19-4912-adbb-a79e8b03027b)
+had to do some guess and checking, i guess it works.
+i can feel my computer slowly dying as it tries to render stuff in onshape. i can feel the lag.
+![image](https://github.com/user-attachments/assets/90fbd6af-b7eb-431c-bdb6-dd32a909fdb4)
+progressssss !!! i'm quite proud of my progress right now.
+time to do some mounting for the hopper.
+![image](https://github.com/user-attachments/assets/7216c56b-bd43-49ab-91b1-1fd56f36e6ae)
+uh wrong shaft :(
+![image](https://github.com/user-attachments/assets/aa763be3-61a6-4c68-8f71-ef4e35037c48)
+uh too long.
+whilst i was doing all of this, i realised that the mounting for the parallel tube is kinda weak. i can't use the L bracket beacuse number one, there's only going to be one hole that attachs the bracket to the tube. so i realised, that i'm kinda dumb, because i can put 2 T gussets on the top and the bottom of the parallel tube, and some 25 by 25 tubes to help mount the T gussets. i will still let the parallel tube to rest on the drivebase.
+![image](https://github.com/user-attachments/assets/f4c31c70-e4d9-4776-b62c-5a67ad21927e)
+alright epic.
+![image](https://github.com/user-attachments/assets/f9cb04a8-0c98-436e-9bb7-0f01818a583a)
+how'd this become unconstrained.
+![image](https://github.com/user-attachments/assets/013d6d57-28c2-4193-8654-4e341a363aad)
+ah right i forgot some holes.
+![image](https://github.com/user-attachments/assets/f6233c68-2df9-4ba1-92df-ab7dcd96ed4a)
+WAIT THE TUBE IS NOT ALIGNED. WHAT. WAIT WHAT. HOLD UP, WAITTTTT.
+![image](https://github.com/user-attachments/assets/5aa50113-59ce-4f7a-a868-5bb739b85ddd)
+i think i might extend the t gusset, but that's for later, the tube is the current problem.
+
+![image](https://github.com/user-attachments/assets/94745129-647c-4b85-bf52-3127a0f309b8)
+hmmmm ok.
+![image](https://github.com/user-attachments/assets/4bfbbf92-0a15-4fbc-a5d2-a17731c9c904)
+uh what.
+![image](https://github.com/user-attachments/assets/2af694af-be4b-484f-8400-fba1cb40caad)
+so many numbers.
+![image](https://github.com/user-attachments/assets/63c26382-e381-4d25-bf67-6c0688458217)
+WHATTTTT
+![image](https://github.com/user-attachments/assets/2c06e413-cc7b-46d2-8881-d91f8a03022c)
+YESSSSSSSS (i just had to minus it.)
+![image](https://github.com/user-attachments/assets/42f7e0a3-6c28-4d26-a7f3-16f5950878a0)
+balling.
+![image](https://github.com/user-attachments/assets/cf26d8e9-dcaa-417c-9d63-274dead61b66)
+ah right, i didn't take into account the standoffs. yeah i'm pretty (dumb) smart
+i kinda need the t gussets but i also need the standoffs.
+![image](https://github.com/user-attachments/assets/9ce1a185-d134-4e36-9b59-7653e6ac6e9c)
+6328 uses only 3 standoffs... and their hopper is 476mm wide.
+mine is 550 mm wide.
+surely it's fine, right???
+![image](https://github.com/user-attachments/assets/b914e36f-1374-4789-9b56-86fb675384ce)
+argh i gotta go to sleep now, but i think i'm going pretty well.
