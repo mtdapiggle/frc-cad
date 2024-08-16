@@ -1258,3 +1258,43 @@ i realised that once again, i had forgotten to add some of the shafts that i nee
 some things added in, and some lengths changed.
 ![image](https://github.com/user-attachments/assets/5f073f58-e35c-4668-9439-f43584de74ee)
 it's all coming together.
+
+# session 49:
+lately i've been behind on my commits, since i'd started to cad during the time and then make commits later. 
+so i've attempted to cut back on the cadding and work on commits.
+![image](https://github.com/user-attachments/assets/523ccd04-fcee-4de7-a890-d22c569d0e95)
+ahhhh ok i should've expected that. uhm... i think i have to adjust some things. i think this will only be a problem when it enters the indexer, since it'll have to go over a big bump, and then go into the indexer which it might not be able to. 
+alsdfjals;jdfkljfas;fd
+![image](https://github.com/user-attachments/assets/90f532c6-f8a4-4cb3-b4f8-81b82c20e505)
+this is where the pulley would be at the most extreme level.
+it also means i have to adjust some pulley and belt sizes.
+asdfjdsakljsaf;ksladjfa;sldfjk;asdf
+![image](https://github.com/user-attachments/assets/a351c3cc-1d55-4399-a1d0-da1d28e48fc5)
+hmmmm that might be a bit much...
+![image](https://github.com/user-attachments/assets/27a5c630-d729-48c2-a64d-c299e52cd45e)
+i had to try and adjust some things in the gearbox to try and fit things in. 
+![image](https://github.com/user-attachments/assets/b356e3bc-f80f-4e0b-8a35-ee4f5174c5e7)
+i pushed the indexer middle gearbox pulley stuff downwards, so that they would be able to push the balls into the indexer much, much easier.
+alright, i might also adjust the size of the indexer as well, and i will also have to add things to the indexer plate.
+![image](https://github.com/user-attachments/assets/d093eec3-c851-43a1-87d8-1bd539fbedb0)
+the mount has been created.
+![image](https://github.com/user-attachments/assets/f38eb835-694e-44ca-a530-bcad1ce3a169)
+hmmmm ok.
+![image](https://github.com/user-attachments/assets/b0124eae-3879-409d-a8af-0c1af71c1def)
+everything's breaking.
+![image](https://github.com/user-attachments/assets/0e646f83-f8d4-4c3a-a604-a098224887fd)
+oh god everything's breaking... asdfmlsdafkjsafdsaklfdjsdal;f
+![image](https://github.com/user-attachments/assets/02875973-796b-449a-8d06-fde568c88852)
+this is so scuffed. i need to fillet a bunch of things now.
+![image](https://github.com/user-attachments/assets/42015df6-3c26-4d6d-a975-754de80ff22c)
+i might as well fill this in.
+![image](https://github.com/user-attachments/assets/c85e972c-3f9c-46bc-b193-427b9cc6d1d2)
+close enough.
+
+![image](https://github.com/user-attachments/assets/3c6d8144-b654-42bb-8aad-6faef1e0f06b)
+good enough.
+things are breaking everywhere in the assembly. 
+![image](https://github.com/user-attachments/assets/1c322f2b-11c9-4300-85db-32a52cece46d)
+there's a flat line that i need to fix.
+![image](https://github.com/user-attachments/assets/e1e20fc4-f9f8-47ec-9923-50e26e42e563)
+wuhh..
