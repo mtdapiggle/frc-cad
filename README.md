@@ -1298,3 +1298,41 @@ things are breaking everywhere in the assembly.
 there's a flat line that i need to fix.
 ![image](https://github.com/user-attachments/assets/e1e20fc4-f9f8-47ec-9923-50e26e42e563)
 wuhh..
+
+# session 50:
+![image](https://github.com/user-attachments/assets/9f97d94b-f9fd-4677-bcf7-aaa1d1981fc6)
+i decided to just make an exclude region to fix it instead.
+![image](https://github.com/user-attachments/assets/94706e76-0227-4fad-b224-8039212f2c14)
+oh no....
+the motors are clipping into each other.
+the bad problem is, i don't remember what pulleys i used for the motor to the shooter, so i can't really calculate the distances.
+i had to look through my sessions to find it. uh...
+so in session 36 i decided on a 30 t 9mm wide 5mm htd pulley. ok.
+![image](https://github.com/user-attachments/assets/c303cea3-bab8-41ee-b0e8-d0f66e3b4a78)
+ok 115 t belt it is. 
+![image](https://github.com/user-attachments/assets/803ffad9-a2da-40c0-aeb1-8926227ba3fb)
+more problems. sigh.
+![image](https://github.com/user-attachments/assets/9c283de7-7a56-4aef-a548-12991dc13b92)
+what the scuffed.
+tis fixed now.
+![image](https://github.com/user-attachments/assets/bc704c59-0eec-4d09-90c5-41c24a8b40fb)
+ok i think i need to reduce the length of the part that comes out of the hopper.
+![image](https://github.com/user-attachments/assets/de3be2b9-110d-41cb-9426-9d1b2a419a0f)
+hmmm need to reduce more.
+![image](https://github.com/user-attachments/assets/ccab3339-c1e2-457d-bd22-223d8b34d641)
+i need to reduce it even more somehow.
+![image](https://github.com/user-attachments/assets/5d0509f2-9b18-4429-ab85-e5332eb5f9f3)
+actually, i might change it a bit to make it a bit cooler. hold up. 
+![image](https://github.com/user-attachments/assets/165ff5df-0a8d-4235-9be5-6365e2aa3c70)
+epic.
+![image](https://github.com/user-attachments/assets/af44c066-79e5-439e-98dd-9765bbb78fde)
+gotta reduce it slightly more.
+![image](https://github.com/user-attachments/assets/39cb5e64-77e8-4b43-ab92-a9e7521d4c2c)
+ain't no way it's off center. i think that the pulley is off center.
+![image](https://github.com/user-attachments/assets/a0d97ab0-027c-485b-af76-9fc10b72a0cd)
+i minused when i should've added. 
+also, uh i think i need to make it wider just to make it 100% sure that it can fit. 
+![image](https://github.com/user-attachments/assets/65dc12a1-8cb9-4809-a314-6da1b5ce2fcf)
+tis getting there.
+![image](https://github.com/user-attachments/assets/78920b13-43ef-498a-a892-d31cd896a2e3)
+hmmmm yes.
