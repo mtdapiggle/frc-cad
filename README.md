@@ -1240,3 +1240,21 @@ mine is 550 mm wide.
 surely it's fine, right???
 ![image](https://github.com/user-attachments/assets/b914e36f-1374-4789-9b56-86fb675384ce)
 argh i gotta go to sleep now, but i think i'm going pretty well.
+
+# session 48:
+hmmmm ok, so i think that i need might need to find a way to mount the standoffs, but i'm not sure how to.
+![image](https://github.com/user-attachments/assets/dc38ce71-081c-49db-bec5-929d04340e56)
+epic. i don't want to reduce the size of the t gussets, since i still want some strength, and i don't want to mount the standoffs to the gussets, since it might be kinda scuffed. 
+![image](https://github.com/user-attachments/assets/62db832f-f159-465b-ae6d-af0355f30cd8)
+i could mount them to teh swerve modules, but they might be too close to the other standoffs. 
+so it turns out their center distance between their hopper standoffs is around 225mm.
+mine is around 236mm. i think it's fine to be honest. 
+![image](https://github.com/user-attachments/assets/e9e5835b-a198-4c4d-bc3c-3770d860da86)
+epic.
+![image](https://github.com/user-attachments/assets/f3b81d6e-e3b1-4278-923e-bb78a6426202)
+epic.
+i realised that once again, i had forgotten to add some of the shafts that i need, like the gearbox shafts on the indexer.
+![image](https://github.com/user-attachments/assets/ffef0555-f573-41bb-92e6-f37ae51a2cd7)
+some things added in, and some lengths changed.
+![image](https://github.com/user-attachments/assets/5f073f58-e35c-4668-9439-f43584de74ee)
+it's all coming together.
