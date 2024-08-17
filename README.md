@@ -1,4 +1,4 @@
-# frc-cad
+![image](https://github.com/user-attachments/assets/04f3060f-c52e-42a0-94f6-13126d909a44)# frc-cad
 bad frc cadding (top tier frc cadders number one fear)
 
 # session 1:
@@ -1436,3 +1436,41 @@ hold up this might work.
 i've never used parallel before (or a bunch of other mates before) so uhhhhhhhh interesting. i think that i have to make the shaft at a certain degree so that the belt will go to the pulley.
 ![image](https://github.com/user-attachments/assets/35b85c7e-0446-4791-b674-07702bd3f56c)
 what the flip is going onnnnn
+
+# session 53: 
+okay so i think i need to adjust the mates and the shaft
+i need to spin it so that it can work.
+i love guessing and checking (it takes like 10 seconds each time i want to check if it works, since there's so much stuff in the assembly right now 😭 and it takes like 10 seconds between when i press a number key and when it shows up on screen (fun.))
+wait i have an idea
+what if i make it parallel to the edge of the indexer plate, since i only used a direct line from each pulley to link them together, surely it means that the belt will be on the pulley, right?
+![image](https://github.com/user-attachments/assets/6800ea66-c1ea-4c65-b66b-40fd0d54d783)
+YESSSSSSSSS I DIDN'T NEED TO TURN THE SHAFT LET'SSS GOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+LET'S FREAKING GOOOOOOOO
+HELL YEAH
+SCREW GUESS AND CHECKING
+WOOOOOOOOOOOOOOOOOOOOOO
+ok i gotta calm down
+okie dokie, time to adjust all of the other belts. 
+![image](https://github.com/user-attachments/assets/90e86eea-7da9-4421-b731-1504a3f84f85)
+WAITTTT WHY DIDN'T IT WORKKKKKKKK MAN....
+![image](https://github.com/user-attachments/assets/e2d920a3-f890-41bb-8164-8b5f0ef8ba76)
+guess and checking for the win!!!
+![image](https://github.com/user-attachments/assets/831e685a-5194-4020-a2cb-905e50733b95)
+guessing and checking fixed nothing. the ups and downs of cadding, except it's only the down for me. 
+i have no idea how to fix this now. i've tried EVERY single mate, regardless if i think it works or not. 
+asjdfklafdklasjfdasdf
+what shall i do
+there's nothing i can do
+i must think
+hmmmmm (for like 20 minutes straight)
+i decided to listen to some music to help restore some of my sanity.
+WAIT. i have a brilliant idea.
+what if i fasten the belts to the indexer plate, which doesn't move and always will stay the same.
+i'm smort
+(probably not)
+![image](https://github.com/user-attachments/assets/2c0c40d4-c54f-411f-ad91-933080104abb)
+i had to hide some bearings so i can use the mates. 
+![image](https://github.com/user-attachments/assets/ce726d57-33cb-4749-8b36-67a696bc182b)
+i thought i'd need some kind of offset like the width of the pulley + 7.5, since 7.5 is half of the width of the belt, but apparently i didn't.
+![image](https://github.com/user-attachments/assets/1e3c0197-26b6-49a4-aa05-d5ee8a13a433)
+and there we have it. uhhhhhh yeah it's something. 
