@@ -1388,3 +1388,51 @@ oh no.
 ![image](https://github.com/user-attachments/assets/ee04a06a-ebb1-4e0c-9915-d4d9323eca8c)
 ok so apparently cylindrical doesn't work.
 i have no idea how to fix this.
+
+# session 52:
+the thing is, if i don't get the exact position that it needs to be in, everything breaks. i can't just do guess and check and pray that it works because revolute allows things to spin.
+![image](https://github.com/user-attachments/assets/d6502b50-05b0-4d57-b1f6-6dbcb022206c)
+ok so i tried to get all of the belts into the middle, but it isn't working.
+![image](https://github.com/user-attachments/assets/57a08c7a-09a6-4e6d-ac94-0196eee96080)
+that looks like its in the middle now.
+![image](https://github.com/user-attachments/assets/b1ca641a-9cb2-46b5-9341-43e1b203f9fe)
+bruh i thought it'd work
+ok nevermind it turns out that i forgot to add the half of the width of the pulley. 
+![image](https://github.com/user-attachments/assets/9b26cedd-d254-4667-8853-cfa73270f209)
+asdfjasklfjaskdfjasd;fkf doesn't look very centered to me. 
+argh i think i forgot to account for the flange on the bearingsssssss.
+![image](https://github.com/user-attachments/assets/fcc13873-70c5-47bc-96ad-297701452e65)
+that was 100% the problem. now i need to account for flanges on the other shafts to make all of the pulleys lined up.
+onshape has turned into a lag fest. it's so darn laggy now. 
+![image](https://github.com/user-attachments/assets/a88e221a-ba79-49a0-a301-4fec1174638b)
+it still doesn't look symmetrical...
+it's off by 2 mm.
+ok wait nevermind it's off by 4 mm.
+![image](https://github.com/user-attachments/assets/dd362093-b9b2-4bf3-9557-874589164406)
+what.
+i don't know why this is happening.
+![image](https://github.com/user-attachments/assets/72709d07-7e22-4564-bd94-ec5e00975f03)
+it's meant to be 12 mm....
+asdfsadfsadfsadfasdfasdf
+why cad no working
+why cad so confusing
+why cad
+cad why
+asdklfjas;kldfjsa;kldfjsda;f[ioeqwvteqwvtepwuioqvupwqoemvtuqpwoievmtuqpwioemvtupwoeqvt
+![image](https://github.com/user-attachments/assets/ac9c0bf4-c143-416a-bd4a-84b99a4878d1)
+what. the bearing slightly clips into the indexer plate. sfdasfdasfdasfdasfdasfdafdassfdasfda
+how did i not realise this. 
+akslfdjslfdj it's such a small thing
+that i didn't realise
+safdasfdasfdsafddffd
+![image](https://github.com/user-attachments/assets/f5e732c0-0adb-4d90-8a18-83a370c83f9b)
+it's...
+fixed...
+i'm free (for now)
+i wish there was a way to see what mates are associated with a part, because it's hell to sift through the 80 ish mates to find out which one is the one that i need. 
+argh. things aren't working. i've tried pretty much every mate that i think could work. planar doesn't work. 
+![image](https://github.com/user-attachments/assets/80e77089-cc95-46d0-b5e1-9019532bad6c)
+hold up this might work.
+i've never used parallel before (or a bunch of other mates before) so uhhhhhhhh interesting. i think that i have to make the shaft at a certain degree so that the belt will go to the pulley.
+![image](https://github.com/user-attachments/assets/35b85c7e-0446-4791-b674-07702bd3f56c)
+what the flip is going onnnnn
