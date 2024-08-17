@@ -1543,3 +1543,47 @@ scuffed.
 standoffs please save me.
 ![image](https://github.com/user-attachments/assets/e7e40d6e-8194-492d-a986-6372aba401ee)
 epic.
+
+
+# session 55:
+assembly grind.
+![image](https://github.com/user-attachments/assets/e2c7fe7b-6764-4005-835b-a967d698bd20)
+it feels impossible to click the center mate connector. how did i do it earlier?
+i think i figured out the technique, you have to move your mouse cursor onto the face, and then the millisecond that your mouse enters the face, you have to stop moving your mouse, or the mate connector won't be in the center.
+![image](https://github.com/user-attachments/assets/28a904ae-365a-42f0-8644-93804b6b8eea)
+epic.
+![image](https://github.com/user-attachments/assets/cf18a5ae-5647-4009-8c73-2112f1976dae)
+i think i want 2-3 4 inch wheels and 2 flywheels. 
+![image](https://github.com/user-attachments/assets/6b2031fa-f180-4cfb-8584-a6e92c2cbcd3)
+uhhhhhh what's the difference between these...
+![image](https://github.com/user-attachments/assets/e58aa59e-60f3-49cb-83d2-cc4037b73334)
+idk what this means 
+![image](https://github.com/user-attachments/assets/d9609673-9175-47ed-acfe-ee2d877c41fc)
+hmmmmm ok, but what's the durometer
+![image](https://github.com/user-attachments/assets/53ea7055-3491-48a8-9a0b-e867cab85448)
+ohhhhhhhhhhhhhhhhhhhhhhhhhh
+i see
+ok uhhhhhh as i'm looking at other team's shooters, they also have another roller on the bottom/top/other side of the driven rollers/rollers that spin. 
+asfjskldafj;sklafjskla;jfdksla;jfsa;fklasjdf
+i also need 2.5 inch wheel or something.
+![image](https://github.com/user-attachments/assets/7597cf35-e2fc-4fd1-afb5-2e97787fa875)
+i think i imght reduce the size of the shooter. 
+![image](https://github.com/user-attachments/assets/b4870545-91de-4be4-8f90-fc73d66add91)
+oh no. 
+![image](https://github.com/user-attachments/assets/dbbe9d16-5621-4249-96c6-616d00844b09)
+that standoff hole is too close. 
+and then i realised that i can't just put the wheel/roller there, because it'd have to go over a large bump to get there. 
+![image](https://github.com/user-attachments/assets/84146976-d20b-4dab-9314-118c216a3111)
+i was making the mount when i realisedd that i had forgotten to make a buffer zone for the bearings. 
+![image](https://github.com/user-attachments/assets/494fb46f-08aa-449e-a552-6d8c7d6001a5)
+ok cool.
+![image](https://github.com/user-attachments/assets/7e6326c0-091b-4bd4-9872-69b265972455)
+the extrude and sketch stuffed fixed itself, but not really.
+![image](https://github.com/user-attachments/assets/b35e867d-3fd3-47b0-8e60-de6f16642cfc)
+hmmmm yes. 
+![image](https://github.com/user-attachments/assets/a9a96adf-9fe3-4791-a2ff-6e132244b19d)
+that's wayyy too close to the neo motors. 
+![image](https://github.com/user-attachments/assets/eda588a0-df38-49dd-abbf-bfc8599fed49)
+i thought that this works but it doesn't. 
+![image](https://github.com/user-attachments/assets/d23f9121-ac00-4600-b9c9-3b9e9c89dfa1)
+it was because i screwed myself over by putting the minus sign, and i should've added the 12.7 because i had put the minus sign over everything/in the outer brackets. 
