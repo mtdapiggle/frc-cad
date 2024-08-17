@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/04f3060f-c52e-42a0-94f6-13126d909a44)# frc-cad
+# frc-cad
 bad frc cadding (top tier frc cadders number one fear)
 
 # session 1:
@@ -1474,3 +1474,34 @@ i had to hide some bearings so i can use the mates.
 i thought i'd need some kind of offset like the width of the pulley + 7.5, since 7.5 is half of the width of the belt, but apparently i didn't.
 ![image](https://github.com/user-attachments/assets/1e3c0197-26b6-49a4-aa05-d5ee8a13a433)
 and there we have it. uhhhhhh yeah it's something. 
+
+# session 54: 
+![image](https://github.com/user-attachments/assets/326bb5e4-e347-4d46-9cae-ac2c581950cd)
+i promptly realised that there's nothing stopping the ball from just flying out of the indexer in this area. i'm not sure how you can mount it as 90 degree angles aren't necessarily the greatest thing to cnc so ...
+i didn't really know how to do it, so i looked at 2910's indexer and see how they fixed it. 
+![image](https://github.com/user-attachments/assets/febd9bb6-5c51-48b5-9ce6-e9f3512d6ef5)
+ok, so they did it by avoiding the problem and having a longer indexer. i've pretty much locked in the size of the indexer, so i don't really want to change that. 
+i don't really know how to go about this. 
+sighs.
+hmmmmmmmmmmmmgklfdajgklsfghskladjgas;kljdfafd
+![image](https://github.com/user-attachments/assets/594695c8-2fdd-43d6-b187-b946f59f63b8)
+actually, i have a bit of an idea.
+i could use belts to ferry it over, but i also will have to adjust pulley locations. 
+i think it might be fine to pull off, my only concern is stressing out the motors. 
+![image](https://github.com/user-attachments/assets/a5b61474-6994-449f-aeb9-800f79a7db6b)
+argh i can't see the constraints, even though i have the "Show Constraints" thingy checked. what. 
+![image](https://github.com/user-attachments/assets/95251ee4-ecf2-47e4-bdf4-1920647205ab)
+all i see is small lines that probably point to the constraints, but i can't click on them or anything.
+i searched it up and couldnn't really find anything about it.
+![image](https://github.com/user-attachments/assets/f93e477e-7f35-45c2-933b-660128fd4518)
+i decided to clear my cache (which is probably the problem) 
+and it works now. 
+![image](https://github.com/user-attachments/assets/a8505eda-5482-4eb2-bb2f-3914b1eeed62)
+surely this works.
+also i realised that i could just use standoffs to block the ball, and maybe put some rollers that aren't attached to the shaft. 
+![image](https://github.com/user-attachments/assets/39c7b342-a0fb-4566-a2b9-c379f09dd714)
+ok time to reduce the fillet.
+![image](https://github.com/user-attachments/assets/ebb8c7cf-2c8c-4f5a-be6f-d69452725b6f)
+scuffed.
+![image](https://github.com/user-attachments/assets/4bdaba24-5f9f-4e57-b715-36bdc3258eed)
+what the scuffed setup
