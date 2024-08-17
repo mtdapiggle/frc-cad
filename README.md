@@ -1505,3 +1505,41 @@ ok time to reduce the fillet.
 scuffed.
 ![image](https://github.com/user-attachments/assets/4bdaba24-5f9f-4e57-b715-36bdc3258eed)
 what the scuffed setup
+
+# session 54:
+![image](https://github.com/user-attachments/assets/c4b645e3-b8ef-402c-a32a-054501f4a596)
+what it looks like if i didn't add it in
+![image](https://github.com/user-attachments/assets/c583bbcc-c64b-420b-856a-23fd71be7642)
+what it looks like if i added it in (i did)
+one is significantly better looking than the other. 
+![image](https://github.com/user-attachments/assets/ea6dc02c-2f97-401d-9a35-d35ba89e7974)
+oh no.
+i just deleted the constraints and then the dimension, adn kept it the same. 
+![image](https://github.com/user-attachments/assets/96d9bd52-4301-4616-8bf2-6656ac944357)
+i put a 4" diameter circle to make sure that it won't interfere with the wheels. 
+i might make some kind of roller that attaches to the shaft at the top, but the shaft at the top doesn't spin at all, but the roller won't be securely attached to the shaft. 
+![image](https://github.com/user-attachments/assets/7557e5be-6637-460d-9f39-1a05c5fb427d)
+epic.
+![image](https://github.com/user-attachments/assets/a40d4fe3-f80a-47cb-bcf0-fcebdebcfff5)
+i gotta move this pulley.
+![image](https://github.com/user-attachments/assets/1584aa4f-7fb4-439f-be2d-bac8553bb0ce)
+miscalculation
+![image](https://github.com/user-attachments/assets/74e7f320-8c93-426a-87d5-e897e804c801)
+i might make it a bit larger due to it being slightly close. 
+![image](https://github.com/user-attachments/assets/d1c924d0-e848-417d-ad27-7a1f20cb7d1f)
+epic. 
+![image](https://github.com/user-attachments/assets/556a4249-0a25-48dc-af73-c683d75d595e)
+had to make a new shaft.
+![image](https://github.com/user-attachments/assets/e627f18e-a81e-4fa4-962b-b59a82f0cdf6)
+![image](https://github.com/user-attachments/assets/6e4bf34d-e626-42d9-8b2d-043e0c5efa3f)
+top tier moments were i forget to make a bottom for the shooter. (funny)
+![image](https://github.com/user-attachments/assets/60cd8aff-d858-4c37-b8d7-68e1bebbeb1d)
+uhhhhhhhhhhhhhhhhhhhhhhhhhh
+![image](https://github.com/user-attachments/assets/d2bffc50-e6fd-44d6-94be-304e15859d0f)
+uhhhhhhh
+![image](https://github.com/user-attachments/assets/7cf81f4c-84bd-4798-abb5-f90606ff3e7f)
+scuffed.
+![image](https://github.com/user-attachments/assets/cccef236-7d38-4c20-a583-3b2c26b3ccb9)
+standoffs please save me.
+![image](https://github.com/user-attachments/assets/e7e40d6e-8194-492d-a986-6372aba401ee)
+epic.
