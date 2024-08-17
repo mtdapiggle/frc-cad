@@ -806,7 +806,7 @@ ok so i had to extend some  lines intead.
 this is gonna be a short session because i gotta sleep soon. 
 i kinda need to figure out a way to power the shooter, i think i'll do it through belts, although i think i want to look at some examples first, so i don't mess up like previous times.
 ![image](https://github.com/user-attachments/assets/f111181d-8a53-48b1-b6da-4b471b41e36b)
-ok so 2910's shooter wheels are powered by 2 falcon 500 motors, which is one of the best/most powerful motors in FRC. their pulley ratio is around 0.7:1 or 7:10, in simple terms, wheel go fast. 
+ok so 2910's shooter wheels are powered by 2 falcon 500 motors, which is one of the best/most powerful motors in FRC. their ' ratio is around 0.7:1 or 7:10, in simple terms, wheel go fast. 
 ![image](https://github.com/user-attachments/assets/bbef2a3e-3d28-4956-8164-fbcd1b22adc5)
 254 also uses 2 falcon 500 motors, and it's a 1:1 ratio. 
 ![image](https://github.com/user-attachments/assets/2b087367-92cd-4bcb-8ebf-1907da15bec2)
@@ -1336,3 +1336,55 @@ also, uh i think i need to make it wider just to make it 100% sure that it can f
 tis getting there.
 ![image](https://github.com/user-attachments/assets/78920b13-43ef-498a-a892-d31cd896a2e3)
 hmmmm yes.
+
+# session 51:
+i was about to get back on the assembly grind, but then i realised that i had forgotten some belts.
+![image](https://github.com/user-attachments/assets/7dfcc443-2b98-46dc-b7cc-d679630660f9)
+i forgot what pulley i used here. ok so i don't think i ever decided on a pulley on teh shooter, so i'm going to go with something like 42 t pulley.
+![image](https://github.com/user-attachments/assets/99676fc3-ae34-4678-a7ac-60c67eafb3b7)
+why it no work.
+ok wait i think it's because they're not on the same plane.
+![image](https://github.com/user-attachments/assets/f1706095-7574-44d2-ab83-0010dc9e8495)
+also i double checked, it's going to be a 125 tooth belt. i think i inputted the wrong settings
+ok time to hop back on the assembly grind
+![image](https://github.com/user-attachments/assets/2091c391-f9b8-414d-bc4e-0defb59b0b95)
+yeah that's definitely a belt (i think)
+![image](https://github.com/user-attachments/assets/3dcd917a-c323-45d4-9af5-3d740b44f616)
+wait where did the versahub go
+![image](https://github.com/user-attachments/assets/b0426b67-e6e5-4a94-9337-a72923f43d8e)
+WHAT HAPPENED HERE...
+![image](https://github.com/user-attachments/assets/6f8a947c-ab38-4cb6-a91e-788c46197d12)
+OHHHHH NOOOOOOO (i somehow clicked the hex shaft and thought that nothing went wrong, i think it's because i think i tried to pan around the model, somehow left clicking.)
+![image](https://github.com/user-attachments/assets/066fc849-4ef9-4f56-9eef-67823f820ec0)
+guess and check goes crazy.
+![image](https://github.com/user-attachments/assets/a34148ba-591b-486b-b356-9497af0017e0)
+epic. 
+i think i want to change the colours of the plates to make them look cooler, and then i'll go back to the assembly grind.
+i think i want a grey colour of sorts. 
+![image](https://github.com/user-attachments/assets/138c639c-05f6-439e-b76e-81e93f96bddb)
+ok so i realised that i needed to extend this shaft, because i need to add the pulley.
+![image](https://github.com/user-attachments/assets/eb414fae-ad3f-4a32-94c0-2bd057c0508f)
+hmmmm that's short... ok, so i realised that i didn't account for the thickness of the plates. rookie mistake :(
+i had to adjust some of the other shaft lengths because they were also slightly short. 
+![image](https://github.com/user-attachments/assets/130b1ba9-2eca-4b9c-9f6e-936d78accbcd)
+ok maybeeee i shouldn't have fastened the pulley to the belt. 
+![image](https://github.com/user-attachments/assets/5935982d-b56e-40b9-a19a-7f9c520af8b6)
+hmmmmm
+![image](https://github.com/user-attachments/assets/2c2035d2-e6a5-4219-922c-8fffd25193b0)
+mmmm yeah things are breaking now...
+![image](https://github.com/user-attachments/assets/cbfddc4a-eb1b-41a7-a2ce-efbcb3567372)
+i tried to use slider but it doesn't really work out.
+![image](https://github.com/user-attachments/assets/0ac011f5-b326-48fa-bc7f-f3a2ab4c2691)
+well cylindrical works.
+![image](https://github.com/user-attachments/assets/238e662b-819a-408e-acf2-c6bb8957dd9e)
+oh no it's all unaligned.
+![image](https://github.com/user-attachments/assets/ad1af2ef-90a6-40c5-9685-94efe906acea)
+oh no.
+![image](https://github.com/user-attachments/assets/4ba085a2-9a7b-49ff-9b35-8ab28e2a03ec)
+the shafts seem to not be symmetrical.
+ok so it was fixable  by adjusting it to its original length, because i had placed the shaft starting on the edge of the indexer plate, and not in the middle or something. idk
+![image](https://github.com/user-attachments/assets/34317521-2da1-4548-899e-a8a646393e3e)
+oh no.
+![image](https://github.com/user-attachments/assets/ee04a06a-ebb1-4e0c-9915-d4d9323eca8c)
+ok so apparently cylindrical doesn't work.
+i have no idea how to fix this.
