@@ -1587,3 +1587,37 @@ that's wayyy too close to the neo motors.
 i thought that this works but it doesn't. 
 ![image](https://github.com/user-attachments/assets/d23f9121-ac00-4600-b9c9-3b9e9c89dfa1)
 it was because i screwed myself over by putting the minus sign, and i should've added the 12.7 because i had put the minus sign over everything/in the outer brackets. 
+
+# session 56: 
+![image](https://github.com/user-attachments/assets/5234cc88-42c1-42b2-8334-ab0ba1066548)
+i was like 3/4 of the way through fastening all of the wheels on the bottom roller, when i realised that i was meant to be fastening them to the top roller. yippppeeeeee !
+![image](https://github.com/user-attachments/assets/3fc48dbd-ec2d-42d1-932f-3b8944b61428)
+luckily, since i fastened everything to the middle wheel, all i had to do was change the position of the middle wheel, and everything else follows. 
+epic !!! i love making good decisions about fastening and stuff and cad and maybe not so great decisions but yeah !!!
+![image](https://github.com/user-attachments/assets/944290ad-22f3-45a7-a669-ba337319677c)
+i think i have some space in here to pop in some pulleys, but i gotta make the belt first. 
+![image](https://github.com/user-attachments/assets/840e6a62-6f95-4d0f-a61f-a3c0477765c9)
+i forgot to change the thickness of the belt. 
+![image](https://github.com/user-attachments/assets/6a8d6f6c-2746-4e85-8501-028fbb53dd37)
+there's only one 2.5 inch wheel. i might opt for something like 2 inch. 
+
+![image](https://github.com/user-attachments/assets/34814240-7922-4677-b4f3-2e669b6e78be)
+it's allll coming together now !!!
+![image](https://github.com/user-attachments/assets/e091f99e-6b42-4de2-a769-5289116bb321)
+i'm gonna work on the gearbox stuff now. 
+![image](https://github.com/user-attachments/assets/62b4ca47-72ea-4d94-9a26-41401a91d6e8)
+oh no.
+![image](https://github.com/user-attachments/assets/2a7b6e59-9ef5-499b-a47d-48fe1ff4f8a6)
+man idk how to package all of this, there's like no room to move anythiing. like what am i meant to do ???
+jaskdfjaskldfjsa;kldfjas;ldfkjas;fkdlksafd
+like if i move the motor up, i won't be able to mount it there, because the flange of the bearing will interefere with mounting. if i move it down, well then i can't make the lower bearing work. 
+i can't move the gear because it has to be tangent with the 16 tooth gear on the pulley, so that it will be close enough on the other side of the gearbox. 
+i can't move the other gear because then it'd start going into the indexer plate, and that's not good. 
+i have no idea what to do, because i've basically locked in all of the gear sizes and ratios and stuff. i can't simply just expand the gearbox, because the bearing would interfere with the indexer plate
+after like 30 minutes of contemplation and trying to work it out, i just deciedd to do something else. 
+![image](https://github.com/user-attachments/assets/fa16d20f-fe3c-4424-a695-32eda0f3036e)
+why is this here.
+ima go fix this
+it's fixed.
+![Uploading image.png…]()
+now i wanna change this up somehow.
