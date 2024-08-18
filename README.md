@@ -1650,3 +1650,38 @@ even worse, i can't even pull up the store page of VEX, since all of the memory 
 ![image](https://github.com/user-attachments/assets/258716e5-f7b4-4260-96d7-38f8505c3750)
 i tried to reload the page, but it isn't working. even uploading images to github takes over 20 seconds...
 ok, so i think i might want to do a 30 tooth pulley into a 42 tooth pulley. it might work, it might not, idk. 
+
+# session 59:
+asjdlkfjsadflkasjf;alksdjfad
+![image](https://github.com/user-attachments/assets/db158083-8a91-4ed7-91d7-9d57e83339d8)
+ok, so, as you can see in the image, i have selected the 24 inch long 1/2in hex shaft
+![image](https://github.com/user-attachments/assets/b696bb69-d4ac-42c0-a696-e23f1c1f0c28)
+as you can see in this image, it exists. 
+I CAN'T FIND  IT WHEN I TRY TO INSERT IT INTO THE ASSEMBLY
+ok nevermind i'm just blind. 
+![image](https://github.com/user-attachments/assets/7695ac35-d0b6-4c6b-ad47-ae380726c74d)
+anyways i  have a few problems. 
+![image](https://github.com/user-attachments/assets/715accd1-c282-433a-a5b4-6b9eeb0e8576)
+ok maybe add one more thing to that list.
+i think the problem is that i set the bearings  on revolute, and then i connected stuff like the thing on top and the belt to the bearings/the pulley that spins with the bearing. 
+another problem is not being abel to find which mate is the one associated with the thing. 
+![image](https://github.com/user-attachments/assets/b97c59ef-60c7-4491-8103-01492b21f1f5)
+i flipped on the show mates mode, but it doesn't entirely work out, and i can't find the mate in the sidebar.
+hell i'm not even sure if the thing is mated to anything. 
+kfaskdal;fka'sdfk
+this is all stressing me out because i just can't find the mate, and i need to fill up the quota for the hour.
+ok, so from what i can tell, the thing isn't mated directly to anything.
+![image](https://github.com/user-attachments/assets/6256628c-e71c-417f-9935-464b50f4966c)
+lots of things are breaking. 
+argh it's so slow to do things.
+onshape is taking like 4 GB of my ram.
+i can feel my head hurtinggggg
+![image](https://github.com/user-attachments/assets/1672a220-5789-4d89-9d3d-76f6740f0557)
+uhuhuhajfsdklfjasd;lfkjasdf
+well
+it 
+FINALLY
+is
+fixed
+man it feels good
+
