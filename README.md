@@ -1685,3 +1685,51 @@ is
 fixed
 man it feels good
 
+# session 60:
+![image](https://github.com/user-attachments/assets/b419a059-9a78-43e5-9669-9cdd2e71d8b4)
+whaddaflip.
+i thought there was a problem with some of the parts, but it's just a mate connector problem
+aka fun.
+aka hell
+i had to make another shaft before assembling the intake. 
+![image](https://github.com/user-attachments/assets/c00bbc9a-fc35-4831-83c2-7214830fbca0)
+![image](https://github.com/user-attachments/assets/2ec84a46-e07b-428e-9624-32ee07e6aedc)
+one set of pulleys fixed.
+![image](https://github.com/user-attachments/assets/fbfedeb6-f4d1-41d2-9345-955f9f0d4dbc)
+oh god there's so many parts.
+![image](https://github.com/user-attachments/assets/7a19fdba-9e4e-488d-9799-493f1ac3ac2c)
+WHATTTTTT.
+uh so i forgot the reverse button thingy. my bad. 
+![image](https://github.com/user-attachments/assets/8cf1d61f-8013-4b0c-bdc8-a718f3806ea5)
+uh what's going on. 
+![image](https://github.com/user-attachments/assets/afabc214-af7b-43ab-8a35-3ede15b3f0aa)
+is this a lot ???
+![image](https://github.com/user-attachments/assets/fa7f425f-15a9-40f0-bbdb-2e6cf7695dc4)
+ohhhhh nooooooooooo ....
+that's 2910's cad.
+mine has almmost quintupled the amount of primitives... no wonder my computer was suffering.
+![image](https://github.com/user-attachments/assets/6316e8ce-d728-4915-a6b1-0cb166cb1556)
+hmmm ok from what i can see, the rollers might get too close to the hopper, or it could make the balls go to some funky places. i think it's fine though, if i put large enouch wheels.
+![image](https://github.com/user-attachments/assets/936a5c50-f93d-46f4-8242-26586fff9af3)
+i decided to go with 3 inch wheels for the last roller, and hten 2 inch for the other ones. 
+![image](https://github.com/user-attachments/assets/29cb7bd1-8699-4d9b-9729-429ce312fc6f)
+one roller set completed, time to put on some pulleys. 
+now uhhhh i forgot what kind of pulleys i used. 
+ok so it's 24 tooth pulleys
+ok
+so
+uh
+assembling time
+yeah !!!
+![image](https://github.com/user-attachments/assets/a38e6c4f-a9ab-4527-a9c7-26f7850c71d2)
+linear pattern my goat right now. 
+![image](https://github.com/user-attachments/assets/82c1ed49-da98-4b2f-a16b-24726b711218)
+slightly off centre.
+![image](https://github.com/user-attachments/assets/f96348be-6724-4b0e-a3f6-aff48b68e655)
+perfect. 
+![image](https://github.com/user-attachments/assets/c8675434-d694-4c7a-93c5-d577c1635ff5)
+ok so i just realised that the 2 inch wheels are around half the width of the 3 inch wheels. i think i can account for that by doubling up on the wheels. 
+![image](https://github.com/user-attachments/assets/0cba572b-1860-49d5-bfe9-694bbb2a4dd3)
+tis all coming together. 
+![image](https://github.com/user-attachments/assets/bf6298b0-12b4-419e-baac-99ac0fd2b4be)
+epic.
