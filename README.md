@@ -1619,5 +1619,34 @@ after like 30 minutes of contemplation and trying to work it out, i just deciedd
 why is this here.
 ima go fix this
 it's fixed.
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/b9b2f9f0-7bce-41dd-8184-928fbee60f35)
 now i wanna change this up somehow.
+
+# session 58: 
+okie dokie, so i wanna move the position of the standoffs a bit. 
+![image](https://github.com/user-attachments/assets/e9e5ed99-e1e6-4fba-b532-4dff29d9e1e2)
+it has been moved. 
+![image](https://github.com/user-attachments/assets/59c9c3a1-77fe-4be3-8e69-09773b3a791c)
+asjdfklsadfj;klasfjdasdfkljasdf i don't think anything can work at this rate. there seems to be like no way to move it. the gears are at their farthest distance from the motor, or at least as spread out as possible, and it doesn't work out.
+![image](https://github.com/user-attachments/assets/a8907075-9a2b-4f0f-95b8-38a765b51682)
+the blue construction circle is marking where the neo motor's footprint is/the size of the neo's footprint. as you can tell, it's pretty much unfixable. there's like nothing i can do. 
+the thing is, i HAVE to fix it, or the robot cad wouldn't really function as an actual robobt you can build and make for the 2021 season. although yes, nobody would build it, i would like to get it functioning. 
+ajsdkfljasd;lkfjsa;dfkjas;kdlfjasdf;lkajs;dfkjasdlf;kj
+sigh.
+i think ima postpone it for now. 
+![image](https://github.com/user-attachments/assets/4bd3d687-f95d-44b7-8c48-45ba093701d7)
+hmmmm ok that's not good.
+i think i might work on the intake first. 
+![image](https://github.com/user-attachments/assets/45c64200-a392-4fde-b750-b28eed5e1b7b)
+arghghghgh the fastened broke and the pulley is scuffed..... asjdfklajsfkdljsd;fa;klsjdfas;lkdfjasdflk
+and i can't fix it until i fix the gearbox issues...well ok, i'm just going to work on assembling the intake now. 
+![image](https://github.com/user-attachments/assets/2796d93b-4cfe-49ef-86c1-dd2305ff9c74)
+oh. well flip. that's...
+not
+good.
+surely this one is easier to work out than the gearbox, i have lots of space !
+ok so i decided to just power the intake directly from the neo using  belts, maybe havingn some kind of reduction. 
+even worse, i can't even pull up the store page of VEX, since all of the memory is being taken up by onshape
+![image](https://github.com/user-attachments/assets/258716e5-f7b4-4260-96d7-38f8505c3750)
+i tried to reload the page, but it isn't working. even uploading images to github takes over 20 seconds...
+ok, so i think i might want to do a 30 tooth pulley into a 42 tooth pulley. it might work, it might not, idk. 
