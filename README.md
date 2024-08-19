@@ -1814,3 +1814,53 @@ the belts are in place.
 now, i have to figure out the last bit.
 the motor mounting.
 i think i have an idea of how to do it, after thinking about it day and night.
+
+# session 63:
+ok, so my idea is to have like a plate, and have the motor mount onto it, but the plate is still attached to the gearbox. (i'm not good at explaining my ideas but i'm semi good at making them)
+i also might flip some of the bearings around to make the plate. (will explain later)
+![image](https://github.com/user-attachments/assets/5ba744c9-6b19-43c3-b2bc-48384a3587c0)
+i made sure that the motor won't intefere with the shafts. 
+![image](https://github.com/user-attachments/assets/79fe5c4e-5c43-442d-81ee-4a78ad01107f)
+i probably have to adjust some of the motor mounting holes so that they're not too close to the bearings. 
+![image](https://github.com/user-attachments/assets/ee3e1430-f08e-4cec-b630-743114f4ab81)
+this is a 1mm gap between the hole and the bearing flange. that's a bit close for me. (when i say close, i mean really close.)
+![image](https://github.com/user-attachments/assets/0849eb79-ab45-4a12-a8b9-35f62c759d00)
+i'd rather have 2 holes that are completely unusable over 4 holes that are compromised. 
+![image](https://github.com/user-attachments/assets/010af7df-18b8-46d8-9a67-f3f1cf9d9f9f)
+oh no. 
+![image](https://github.com/user-attachments/assets/615b5941-5e6c-46f3-98b9-3aeac22b150a)
+this is my idea. 
+i had to fix some sketches going wonky. 
+![image](https://github.com/user-attachments/assets/9a3a4ef5-6fc4-4024-8ab3-07bb6fac275b)
+noooooo it's not equalllllll
+![image](https://github.com/user-attachments/assets/f1468782-dfa5-4c76-a7ad-351e6b591c05)
+the thing is, i don't really know how to make it equal/even/symmetrical. 
+ajrkgljaskldgj;asdjfas;d
+ok wait i think i have an idea
+![image](https://github.com/user-attachments/assets/a5c4d263-a163-4ff6-a4fa-de90957c3f61)
+aw nvm it doesn't work, the circles are off-center.
+i could potentially just move the pulley, but that might cause some problems. 
+![image](https://github.com/user-attachments/assets/b6de7f9b-0f9d-4e6e-a89c-c2f02aab2d19)
+by moving  it 3mm, the lines are now on top of each other, or at least close enough. 
+![image](https://github.com/user-attachments/assets/f42c1166-85c3-40e0-ac27-290df22e3556)
+the difference is in the microns, close enough. 
+![image](https://github.com/user-attachments/assets/719373ae-e99a-4a6c-91e8-e4a3547ca014)
+ohhhhh no.... (the bit near the top)
+![image](https://github.com/user-attachments/assets/9934678e-8828-4c6c-a2c0-970564e2a9ea)
+in my defense, it's symmetrical now. 
+![image](https://github.com/user-attachments/assets/f10b5b1b-cf71-48b6-9cbd-c0afbb9ddc25)
+wait what happened. 
+![image](https://github.com/user-attachments/assets/63104bf5-1182-441e-bcd2-c4b1f2287b35)
+oh i see the problem now. 
+![image](https://github.com/user-attachments/assets/09c84101-f468-40ed-a57d-9e41db61870e)
+it's still broken?
+whar
+![image](https://github.com/user-attachments/assets/65eade22-7c16-4fd1-9d25-c919d3b730de)
+after deleting a bunch of the exclude regions, i still don't know what the problem is. 
+![image](https://github.com/user-attachments/assets/ad5c1610-4662-436d-b476-bd08384664fa)
+selecting the middle circle singlehandedley scerws over the entire part lighten. 
+the thing is, i need that circle, so it doesn't look too scuffed.
+![image](https://github.com/user-attachments/assets/9eba8575-e391-432a-9633-6387aba9ecf9)
+i shrunk the circle size. i kinda wanna make it slightly larger.
+![Uploading image.png…]()
+ooooo that's good. 
