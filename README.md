@@ -1862,5 +1862,38 @@ selecting the middle circle singlehandedley scerws over the entire part lighten.
 the thing is, i need that circle, so it doesn't look too scuffed.
 ![image](https://github.com/user-attachments/assets/9eba8575-e391-432a-9633-6387aba9ecf9)
 i shrunk the circle size. i kinda wanna make it slightly larger.
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/f6d8334a-a3e4-467c-bdd0-075d728465af)
 ooooo that's good. 
+
+# session 64:
+ok, time to assemble. 
+![image](https://github.com/user-attachments/assets/59b6c788-5af4-438c-a5e5-5578117ab342)
+actually nevermind, i think i want to add some ribs here. 
+![image](https://github.com/user-attachments/assets/7816457f-a8dd-43c4-8131-4f398f9a5b46)
+i think this is enough. 
+![image](https://github.com/user-attachments/assets/976e7af4-b999-4a8a-8f3f-e877769415d4)
+hmmm that's a problem i didn't expect...
+it also makes the shafts smaller on the outside.
+asj;dfkjasd;kjaslkfas;df
+![image](https://github.com/user-attachments/assets/157c20f6-2d14-422b-b0ef-b08e4be1dd54)
+aw heck nah...
+![image](https://github.com/user-attachments/assets/e9ba6b5e-a33b-4810-86e1-45e9f5d5630c)
+jalkdsfj;asjfas;dklf that's so close to the motor...
+i think it's kinda funny how if i move something by a few mm, everything becomes unusable/won't work.
+ajfslkdajflksdjaf
+i have no idea if this is even fixable.
+![image](https://github.com/user-attachments/assets/9101128a-1dbd-4bd9-8463-5bb8873cbcfc)
+also this gear is so extraordrinarily close to touching that hex shaft.
+it's a 0.287mm gap. 
+the shaft length can be easily fixed. but the motor being so close to the shaft, and the gear also being really close isn't good. 
+i'm just.. lost on what to do. 
+![image](https://github.com/user-attachments/assets/2a6fc145-40e4-483e-b013-d63ee83aa975)
+i tried to see if i could move it up somehow, but it just doesn't work out...
+no matter what i do, it's always going to be too close to something or another thing. 
+![image](https://github.com/user-attachments/assets/ebadca55-7ca2-4de7-9b3c-bd9b261be25d)
+the bad thing is, or, well the worst part is, this is probably my best idea of doing it, and it doesn't work. 
+i tried to change where the large gear powers the inner pulley system, but it doesn't work out and its scuffed. i tried to get the motor to power the gear that goes to the outer pulleys directly (instead of being powered by the 60 tooth gear), but that also doesn't work.
+there's so much that is needed, but so little space...
+![Uploading image.png…]()
+dude... that's just so closeeeee
+weqpiowoeqripwioqruwqpioruqiopwre
