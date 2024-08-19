@@ -1778,3 +1778,39 @@ i'm just going to import the step file.
 
 ![image](https://github.com/user-attachments/assets/0bcd0672-9660-4dc6-9954-cf3aa7174c7c)
 taht doens' tlook good...
+
+# session 62: 
+ok, so i should’ve checked this box whilst importing. 
+![image](https://github.com/user-attachments/assets/7c48094a-120c-4adb-9b80-022137041f9f)
+![image](https://github.com/user-attachments/assets/0a6e593a-56ce-4f49-af4b-cc332a1aa411)
+yep it’s one part now. 
+i decided to adjust the pulley stuff and made the cut in the hopper larger.
+![Screenshot 2024-08-19 160533](https://github.com/user-attachments/assets/7c9ef58c-a74c-4018-85da-19131b313588)
+also, as i was scrolling through my screenshots for the screenshots i had taken, i have realised that around 67-75% of the screenshots that i've taken are of cad models/stuff for hack club, so that's quite interesting.
+i also have to change the position of the pulley. 
+![image](https://github.com/user-attachments/assets/467ac969-4610-461a-aaa0-266e55d6f9a0)
+i had to clear the cache again...
+okie dokie. so everything is in place, time to add in the center pulley stuff. 
+and the gears.
+i decided to run a 60 tooth gear, instead of the 56 tooth and then swap the 50 tooth with a 56 tooth. 
+![image](https://github.com/user-attachments/assets/45cafaa3-e3a9-46d1-90c8-1c0cda79ee02)
+i decided to make a gear relation so when one spins, the other also spins
+![image](https://github.com/user-attachments/assets/29af892d-88fc-4b6d-b9d8-b5a47d2b1d78)
+although they contact at the wrong points... it annoys me !!
+ah well, what am i meant to do. 
+![image](https://github.com/user-attachments/assets/d7107c8f-e4c4-4038-ac9b-4f53ada1d990)
+wait a minute....
+argh i forgot that i swapped it for a 56 toothhhhhh.
+![image](https://github.com/user-attachments/assets/74930246-2e49-41ae-8c0c-ff957d398562)
+now these one spin, but they aren't joined to their shafts, which makes sense i guess. it leads to wacky stuff happening where the gear isn't aligned with the shaft. 
+![image](https://github.com/user-attachments/assets/e50509bc-44f4-4c30-90a6-a6e62c77edde)
+with all the gears done, now i need to do the pulleys.
+![image](https://github.com/user-attachments/assets/be03963d-441d-4784-84e0-781dd2d44c13)
+hmmm yes close enough.
+![image](https://github.com/user-attachments/assets/5f61e7b3-cf3e-4299-afbd-fefbb0e1cc11)
+the pulleys are in place. 
+the belts are in place.
+![image](https://github.com/user-attachments/assets/026b96fb-7fff-4879-9073-c597060e07fc)
+now, i have to figure out the last bit.
+the motor mounting.
+i think i have an idea of how to do it, after thinking about it day and night.
