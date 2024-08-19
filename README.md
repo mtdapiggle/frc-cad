@@ -1894,6 +1894,22 @@ no matter what i do, it's always going to be too close to something or another t
 the bad thing is, or, well the worst part is, this is probably my best idea of doing it, and it doesn't work. 
 i tried to change where the large gear powers the inner pulley system, but it doesn't work out and its scuffed. i tried to get the motor to power the gear that goes to the outer pulleys directly (instead of being powered by the 60 tooth gear), but that also doesn't work.
 there's so much that is needed, but so little space...
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/d6637695-0027-4bcc-937e-a5395c4a2a47)
 dude... that's just so closeeeee
 weqpiowoeqripwioqruwqpioruqiopwre
+
+# session 65:
+i'm just still so confused on what to do.
+![image](https://github.com/user-attachments/assets/4731214a-1f91-481f-9683-c169351f3d09)
+the plate is looking really good right now. 
+i just have no idea how to fix this... like ... what am i meant to do????????
+i can't power the gear that powers the outer pulley directly by the motor because it's too clooseeeeeeeee.
+huuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+aaaaaaaaaaaaaa
+i can feel my sanity going down as i try the same thing over and over again. 
+![Uploading image.png…]()
+as you can see, the motor goes really far into the bearing. 
+i'm just so tired of this darn gearbox.
+sdasfdasfdasasasdadteqwteq rerttrrtcq rtq qr req re xvbcxvcvnbfgjkuilpuytgk jhvbvnb
+after like the entire session was done, i just decided to seek help from experienced cadders and asked a senior member in the frc team that i'm on, and he's unable to figure it out. i think that i just have to bite the bullet and just accept the fact that there's going to be some really, really close tolerances (or insert another word here, since i don't know how else to describe it)
+
