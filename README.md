@@ -1733,3 +1733,48 @@ ok so i just realised that the 2 inch wheels are around half the width of the 3 
 tis all coming together. 
 ![image](https://github.com/user-attachments/assets/bf6298b0-12b4-419e-baac-99ac0fd2b4be)
 epic.
+
+# session 61: 
+i quickly finished up on the intake.
+![image](https://github.com/user-attachments/assets/64295893-65a8-4061-8a79-33c4767e7602)
+i feel quite proud of what i've done so far, but i still had one thing to solve. the motor placement. 
+i think i'm just going to do everything i can to avoid doing the motor.
+![image](https://github.com/user-attachments/assets/777d4388-6f06-4c03-8255-8112a0bd77b1)
+ajSDFKASLK;FDJASZJCXVOIJSAI SOPDJAWPOIEJCSPX
+that motor annoys me.
+i think i need longer shafts for the gearbox. 
+![Screenshot 2024-08-19 100519](https://github.com/user-attachments/assets/b0fcb591-27b1-4a99-a7b8-cad3c6492514)
+i found out that there aren no 16 tooth gears for ½ inch hex shafts, so i decided to just swap to an 18 tooth gear. 
+this means that it’s roughly a 11.5:1 reduction, aka not enough. 
+asjdfalkdfkasjdf;asjfdf
+hmmmmm
+i decided to use a 56:12 adn then to a 50:18, resulting in around 13:1, which could work, but it kinda messes up the entire system i have running already.
+![Screenshot 2024-08-19 102856](https://github.com/user-attachments/assets/80721b34-4ea7-4e49-8470-8cb8f9ee3c71)
+hmmmm ok
+that’s my original reduction for the outer indexer pulleys. 
+this is like a rough idea of what the reduction is, it’ll be good enough. 
+![Screenshot 2024-08-19 103135](https://github.com/user-attachments/assets/3e782140-709d-4cce-a684-d25aaf891d77)
+this makes it slightly faster, but that’s fine. 
+![Screenshot 2024-08-19 103309](https://github.com/user-attachments/assets/0ff3c15d-89ff-4e0f-afeb-b9251bfc7437)
+i think this can work. 
+time to modify the sketch for the indexer inner gearbox. 
+![Screenshot 2024-08-19 103721](https://github.com/user-attachments/assets/817841f2-dcb2-46fb-88e6-d2d3b351b49e)
+it has been modified. 
+onshape is tearing through my battery right now, i'm on 50% after like 2 hours of work... (battery saver was on the ENTIRE time)
+usually i cad at home, where my laptop is always linked to a power supply.
+but holy. 
+![image](https://github.com/user-attachments/assets/718a05b3-38c1-41d0-b29b-7251620ef1d7)
+the 18 tooth pulley is nearly the same size as the bearings. 
+also, if i use the 24 tooth pulley the reduction is like 2.8:1 
+which could work. but i need speeeed 
+
+anyways so 
+![image](https://github.com/user-attachments/assets/6f9c4ec1-1fa0-46b5-978a-57ae8bbba943)
+small problem, i can't find the 18 tooth pulley. 
+i think i could just... decide to get the .step file from the manufacturer. 
+but there' s abunch of unnamed stuff that doesn't have any tooth amounts. 
+arg i don't wanna check them
+i'm just going to import the step file. 
+
+![image](https://github.com/user-attachments/assets/0bcd0672-9660-4dc6-9954-cf3aa7174c7c)
+taht doens' tlook good...
