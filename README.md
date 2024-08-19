@@ -1907,9 +1907,51 @@ i can't power the gear that powers the outer pulley directly by the motor becaus
 huuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
 aaaaaaaaaaaaaa
 i can feel my sanity going down as i try the same thing over and over again. 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/aa2ee0c6-b78a-4602-8b61-8b330fdd7ad7)
 as you can see, the motor goes really far into the bearing. 
 i'm just so tired of this darn gearbox.
 sdasfdasfdasasasdadteqwteq rerttrrtcq rtq qr req re xvbcxvcvnbfgjkuilpuytgk jhvbvnb
 after like the entire session was done, i just decided to seek help from experienced cadders and asked a senior member in the frc team that i'm on, and he's unable to figure it out. i think that i just have to bite the bullet and just accept the fact that there's going to be some really, really close tolerances (or insert another word here, since i don't know how else to describe it)
 
+# session 66:
+arghargkajsgklasdga
+this eternal loop of suffering and trying to fix cad problems and miserably failing and and and and cad, yeah i kinda feel burnt out and hate cad just because of this ONE singular gearbox.
+![image](https://github.com/user-attachments/assets/46d89f8a-cf81-4a80-a53a-e0d39a03349a)
+top ten moments where i forget that i have an example of an indexer to look at (yippppeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee)
+ok, so they were able to secure their motor because they have a thick enough plate. 
+if i were to put the motor on the outside, the gears would have to be smaller to compensate for that, since they could intefere with the balls. i'm not sure if i can do that, so...
+actuallllllyyyyy
+wait
+![image](https://github.com/user-attachments/assets/fd4cefc1-05e3-4fcd-b72c-130fbae6afb4)
+as you can see here, 2910 decided to let their shaft just hit the motor if needed. 
+![image](https://github.com/user-attachments/assets/1c313027-a1c2-4861-b2af-f3806d3f571c)
+but uhm, problem number one, the flange is on the other side
+problem number two, their plate is thick, meaning that some things are nullified (aka the thickness of the bearing)
+so, uhm hmmmmmm
+ah right, i flip the bearing. (i already flipped it i'm such a dumbass)
+![image](https://github.com/user-attachments/assets/0399e706-8453-4d2a-8644-b67b72cbfea3)
+yeah ima have to fix that. 
+![image](https://github.com/user-attachments/assets/713a4682-b384-4c66-8aa2-9f7f8cdd6354)
+i decided to make it symmetric by drawing a line between 2 of the points closest to the shaft/bearing, and then making a line on the midpoint of that line, making it perpendicular. then i fixed that line to the center of the bearing/shaft/thing.
+![image](https://github.com/user-attachments/assets/f52bd127-5a1d-4ad6-94a1-3a307dddca0c)
+this doesn't look very symmetric to me 
+![image](https://github.com/user-attachments/assets/14eb9c53-5d10-4e04-ad0c-d59382a3db52)
+this breaks the part lightenigngggg
+![image](https://github.com/user-attachments/assets/fdf24df8-9668-4dc6-b6ea-12a66742681b)
+adsfjasdjf;kalsdfjsakfa;fjaskldfaj;fsfd;lsajdf
+![image](https://github.com/user-attachments/assets/b90073ff-093f-4c22-8e4f-b32664d3e1ac)
+the reason why it wasn't symmetric was because i hadn't de-selected one of the holes. 
+![image](https://github.com/user-attachments/assets/d789fb81-4a44-4faf-861d-8c49ad8c96ab)
+ehhhhhh that's not good.
+![image](https://github.com/user-attachments/assets/5a44db29-0889-4186-83bb-eb95b3984c30)
+surely nothing goes badly 
+![image](https://github.com/user-attachments/assets/23a91359-9aaf-41d4-921f-19cdef41f7f9)
+i might have to just put specific shapes to block those out. 
+![image](https://github.com/user-attachments/assets/ee52e623-158a-47d5-b758-c7ff423582a8)
+this is NOT scuffed, i have no idea what you're talking about. 
+![image](https://github.com/user-attachments/assets/b38454a7-b828-4e05-b952-1cd4c8d4c842)
+ok things break.
+![image](https://github.com/user-attachments/assets/5c27c789-c839-4845-b098-cf4628a866f7)
+ok nvm, we ball, i just had to exclude that one bit. 
+![image](https://github.com/user-attachments/assets/0c26f0ee-de7d-4a1d-830e-2872a81e0569)
+NOOO WAIT NOOOOOOOOOOOOOOO.
