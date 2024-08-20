@@ -2006,3 +2006,82 @@ i think this is good.
 i need to lower taht 176mm gap... i can either do this by using larger pulleys which i don't want to do, or...
 i could make the bottom pulley higher
 orrrrrrr, i could adjust where some of the pulleys go.
+
+# session 68:
+![image](https://github.com/user-attachments/assets/9cdba3fb-caa8-4298-adcc-50ab4cc9ec39)
+ok that works i guess. 
+![image](https://github.com/user-attachments/assets/6f824420-a6ee-49af-8efd-14bbcaed4fac)
+that's honestly expected. 
+![image](https://github.com/user-attachments/assets/91be1e0c-0855-409b-95a7-c4788f2cf65a)
+hmmmmm ok.
+![image](https://github.com/user-attachments/assets/97c18f7b-6399-43c3-9404-42221c0512a0)
+welllll that's not good...
+![image](https://github.com/user-attachments/assets/86d6bc7c-d983-4397-8cdf-fe0b5c669563)
+lots of cleaning up to do, and lots of adjustments to make.
+![image](https://github.com/user-attachments/assets/8f7a7690-64c5-437d-925d-5b67339253d2)
+bruh..
+![image](https://github.com/user-attachments/assets/1f4ea218-4d3c-44ac-ad25-352c9ba2cec5)
+what the flip...
+![image](https://github.com/user-attachments/assets/ba6edc3c-2f63-4e25-9180-bd7408d24aef)
+by lowering the circle by 1 mm, it has singlehandedly solved my problems. 
+![image](https://github.com/user-attachments/assets/ca87fbbc-e6bb-4db4-a023-4cf7d2652ca0)
+there's a tiny line/part sticking out. 
+![image](https://github.com/user-attachments/assets/6234ffff-991b-4887-91ee-e97efd8ed352)
+why is there a flat parttttt
+i found out that it's because when i extruded the plate, some things weren't extruded.
+![image](https://github.com/user-attachments/assets/a26b4061-0967-4ce5-8818-b9749c726a39)
+and it  breaks.
+![image](https://github.com/user-attachments/assets/94344e7c-ebbd-4047-ae5f-148273699785)
+whaaaaaa
+![image](https://github.com/user-attachments/assets/770fdf63-c0f0-4bc5-8157-de5100f92e7a)
+aw hell nah...
+![image](https://github.com/user-attachments/assets/c4ab7b40-920e-4a4d-90f1-57aca9b0afd3)
+i can select everything but that one corner. 
+![image](https://github.com/user-attachments/assets/3fe482ef-b0c3-4a59-aab7-5a95ea93139d)
+turns out i had to select everything and then that corner to make it work. 
+![image](https://github.com/user-attachments/assets/8d459a9f-ea93-4949-ab52-f6e969c14c3f)
+ohhhhh nooooooooooooooooooooo.
+![image](https://github.com/user-attachments/assets/1a94f9b0-97dc-430d-bb11-99c3d48fb570)
+bro i'm just trying to move ittttt why must it be so hard. i decided to just copy and paste it and then move it over. 
+![image](https://github.com/user-attachments/assets/e3848751-b92d-488b-a5f5-2544b4d317f9)
+ohhhh nooooo
+![image](https://github.com/user-attachments/assets/ea9ab1b6-78c5-4313-a07f-6d30e91e4c98)
+ohhhhhhh i don't like this.
+![image](https://github.com/user-attachments/assets/13b2d8ec-4061-4cb6-b46c-8c511eb2cfe8)
+OHHHHHHHHHHH NOOOOOOOOOOOOOOOOOOOO
+alkdsjkfalsja;kfdsjfjdakdsfjsa;jdflasd
+![image](https://github.com/user-attachments/assets/47322934-3e47-4243-b858-f6025303966d)
+i had to sketch out an entire perimeter.
+![image](https://github.com/user-attachments/assets/c4627f8f-8d87-4e65-8e78-15cc28a360ba)
+anddddd it breaks. 
+asdjfklsafd;akdfak;lsfdjalsdfjaslkjasfd
+why it not work.
+![image](https://github.com/user-attachments/assets/495a9e14-0590-4603-9fd4-269392da774e)
+i had to make a perimeter inside of the perimeter.
+![image](https://github.com/user-attachments/assets/50d939e0-9ed9-4022-bf95-94dce286ded8)
+that's not good.
+![image](https://github.com/user-attachments/assets/1d7b8085-7d3e-41f2-9b84-4fe241be141d)
+and that's even worse.
+maybe i shouldn't have merged them. 
+![image](https://github.com/user-attachments/assets/3df2555a-b914-4e31-8e0b-79c9171552b2)
+uhfsadufhasdjgk;lsadgja;lksdgjka;ldjglasdf
+![image](https://github.com/user-attachments/assets/89172245-5c2c-4773-bca5-b48f8e3fd17e)
+seriously regretting merging them.
+![image](https://github.com/user-attachments/assets/3619bc3f-d56b-42cd-85e9-babbd9f868c8)
+ohhhh nosodafjsakdfsa;lkdfja;lskfsa;ldfjsadf
+it's just eternal pain
+just
+uhas'dfsad
+i hate cad
+why
+just
+why
+![image](https://github.com/user-attachments/assets/8a2ce4e5-0196-470f-9f2e-a4a546f5de40)
+w-wuhhhhtaskjdfa
+HOW
+![image](https://github.com/user-attachments/assets/7f5d790e-72a6-4564-9a41-6d6f577044c5)
+nothing workrkrkkksssss
+![image](https://github.com/user-attachments/assets/d6789335-2474-4472-acd5-cc9e1100cfbd)
+bro this just isn't working.
+![image](https://github.com/user-attachments/assets/175ce35e-f218-4d98-9135-2fe90f87fc8c)
+i tried another featurecsript and  it's leaving onshape to just load for eternity. 
