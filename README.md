@@ -1955,3 +1955,54 @@ ok things break.
 ok nvm, we ball, i just had to exclude that one bit. 
 ![image](https://github.com/user-attachments/assets/0c26f0ee-de7d-4a1d-830e-2872a81e0569)
 NOOO WAIT NOOOOOOOOOOOOOOO.
+
+# session 67:
+![image](https://github.com/user-attachments/assets/e3390b7d-5bca-4e74-aa47-efa93319e89d)
+nooooooo why is it there..
+![image](https://github.com/user-attachments/assets/497c0907-0be8-45d9-9130-59afa6af57eb)
+surely this works.
+![image](https://github.com/user-attachments/assets/66dcd964-dabe-41c8-b79d-c4fe5d0b4eb6)
+NOOOO IT BROKEEEE
+it seems like i can't patch the hole using part lighteeennnn
+![image](https://github.com/user-attachments/assets/d9766f12-c0ff-46b2-86b9-102e19091e31)
+not scuffed™️
+![image](https://github.com/user-attachments/assets/d83a7ead-487a-49b7-b84e-cfd5fefe8c34)
+had to patch it out manually.
+it’s time to assemble. 
+![image](https://github.com/user-attachments/assets/d0dad7dd-09d2-4ba2-a15f-09337f6bb0a5)
+![image](https://github.com/user-attachments/assets/9d461b7f-2123-4068-924f-8208010e79c4)
+ok maybe not, things are breaking. 
+![image](https://github.com/user-attachments/assets/9f0b0d1b-4e58-4cfd-a959-0cc0d3ca5f84)
+i need to add a bearing here, i deleted it accidentally when trying to find the bearing that i needed to flip around. ![image](https://github.com/user-attachments/assets/bb2a696d-caed-45ae-821b-81c775f9f2e2)
+i also need to unflip this bearing because i no longer need it to be flipped. 
+![image](https://github.com/user-attachments/assets/f67246bd-2a3f-422f-b230-754ec9f2d5a4)
+i also need to unflip these bearings, since only one side needs to be flipped, since the motor can only be mounted on one side because of how i designed the gearbox. (technically yes, you can mount it on the other side, but it isn’t really as effective/it’s scuffed/uhhhhh it bad. also i might make a configuration for the gearbox, like one for the left and one for the right side.)
+![image](https://github.com/user-attachments/assets/86c3e758-7e23-4d71-a7f1-84d6ed2c9f70)
+perfect 
+![image](https://github.com/user-attachments/assets/8d600dc9-11a1-4d5b-a3e8-7c401acc1aab)
+spinning gears.
+![image](https://github.com/user-attachments/assets/049152ac-2a63-4e5b-9a2f-8e442f5ec8aa)
+i need to extend this. 
+ok maybe i don't need that 18 tooth pulley. i think 24 tooth might fit better, and i don't entirely thing i need all that speedd, but idk. 
+but... hmmmmm
+argh, i just realised that i still calculated the pulley distance assuming that it was a 24 tooth pulley, and i don't want to restructure the gearbox for the 1000000th time. 
+alright 24 tooth pulley i guess. 
+![image](https://github.com/user-attachments/assets/c9223f9f-03af-4a24-b5c9-a3dd2c459337)
+hmmmmmmmmmmmmmmmmmmmm
+welp i guess i'm forced to restructure it anyways.
+![image](https://github.com/user-attachments/assets/67788f28-bfaa-4a3a-8677-c194bdd885ef)
+i could downsize to a 30 or 36 tooth pulley, and then swap to the 18 tooth pulley and it could work. 
+![image](https://github.com/user-attachments/assets/b0818918-fbfd-42e2-b1e5-187a6d96590e)
+hmmmmm well, i'm not doing a 36 tooth pulley i guess.
+![image](https://github.com/user-attachments/assets/095d0b16-24a9-4b9a-bd98-a40392cf098a)
+yeah that works.
+whhilst i was adjusting some gearbox stuff, i realised that i could merge the gearbox with the indexer plate, and then have more space to adjust things
+ok screw adjusting the sketch for now, i'm merging. 
+![image](https://github.com/user-attachments/assets/c43b4e81-374e-45f5-8002-1cb8fbe2a5c2)
+i ahve to adjust the fillets. (when i say adjust i mean make them disappear.)
+![image](https://github.com/user-attachments/assets/f22f51f1-e8e2-47b9-868a-8d74061fe5a7)
+i think this is good. 
+![image](https://github.com/user-attachments/assets/992268b0-cbce-4ed9-b749-237dcd9c99de)
+i need to lower taht 176mm gap... i can either do this by using larger pulleys which i don't want to do, or...
+i could make the bottom pulley higher
+orrrrrrr, i could adjust where some of the pulleys go.
