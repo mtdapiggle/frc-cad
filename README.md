@@ -2085,3 +2085,58 @@ nothing workrkrkkksssss
 bro this just isn't working.
 ![image](https://github.com/user-attachments/assets/175ce35e-f218-4d98-9135-2fe90f87fc8c)
 i tried another featurecsript and  it's leaving onshape to just load for eternity. 
+
+# session 69:
+![image](https://github.com/user-attachments/assets/ae3fa798-0695-498f-8d5b-6ec777547bd7)
+not scuffed™️
+![image](https://github.com/user-attachments/assets/7501a35d-02a5-4884-917f-72d06de380b7)
+after tactfully selecting the different faces (i couldn't just select them in any order, the featurescript would just break if i did) i got most of it covered.
+![image](https://github.com/user-attachments/assets/8b3af767-0361-4901-91f7-816b2b7f27d2)
+sealing it up.
+![image](https://github.com/user-attachments/assets/f6a747a9-d022-4de6-90f0-9912dfa0a7f9)
+most things are fixed and are fine, but some things are problematic. 
+![image](https://github.com/user-attachments/assets/b395f31f-5c37-4b91-a6f1-de682a28fe11)
+probably not the best solution, but the only one i can think of. *that can do it reliably.
+
+![image](https://github.com/user-attachments/assets/5b7a4e23-94fc-49e8-899c-782b17ce5b0f)
+oh i forgot about this. welp ok.
+![image](https://github.com/user-attachments/assets/9c7ae045-cb00-4d1d-93e2-1773688feb90)
+epic.
+![image](https://github.com/user-attachments/assets/7b3bb4bf-84fd-4454-b127-596889d64725)
+well it's fixed now.
+![image](https://github.com/user-attachments/assets/b0587e18-11c9-4b46-bd44-18419e234045)
+arghghhh so much to fix.
+![image](https://github.com/user-attachments/assets/42c89131-ae22-4a5a-9fc3-2b9dd247f4b4)
+hmmmm that's too close. 
+![image](https://github.com/user-attachments/assets/c85b803e-6b1e-4150-a367-5f3df14b21a4)
+aeghrhgajhg;sjdg;lkasdf
+![image](https://github.com/user-attachments/assets/fc378835-979c-49f7-a109-7d9ef1991d63)
+argharhghaerg
+![image](https://github.com/user-attachments/assets/4177ae4c-a812-4f6f-ad5f-345ef43db22a)
+ohhhhh noooooooooooooooooooooooooo.
+![image](https://github.com/user-attachments/assets/67185a31-0a1b-4b66-92c8-5862471adddd)
+ok epic it's fixed now.
+![image](https://github.com/user-attachments/assets/39ce15bf-d9d6-40c5-addc-e20d70f59009)
+hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+![image](https://github.com/user-attachments/assets/084f2149-f470-44ff-8b04-6e71c931b7c1)
+hmmm it was fine earlier, so something must've altered it later. 
+![image](https://github.com/user-attachments/assets/92d46421-39e4-4e65-ab6b-782024fbcd3e)
+it has been removed.
+![image](https://github.com/user-attachments/assets/ff9c178b-c96f-4e5e-8f02-e6442410dfdd)
+oh god. 
+![image](https://github.com/user-attachments/assets/ade59c46-b58d-44ef-88ab-022f206eccde)
+oh...
+oh no.
+![image](https://github.com/user-attachments/assets/bc8e42d8-a67b-4448-9c7a-cada705d5548)
+WHATTTTTTTTTTTTTTTTTT
+![image](https://github.com/user-attachments/assets/0989e74d-d459-4235-9bc8-aa48abc12144)
+it all makes sense now. 
+time to go back to the part studio and adjust a couple things (more like a thousand things)
+![image](https://github.com/user-attachments/assets/8b7832e7-52e2-46e7-871b-b847bf16ce3d)
+i just realised that this is from the space that i made around the pulley bearing. 
+![image](https://github.com/user-attachments/assets/6ff736be-943d-4a94-85c7-1f0171ed628c)
+top ten not scuffed moments.
+![image](https://github.com/user-attachments/assets/02d7159b-c41f-412a-a09b-f435a0b2d23e)
+that's not good.
+![image](https://github.com/user-attachments/assets/816d7ef2-7f90-4a43-ab04-4c3038fd7a6c)
+all the bearings are back, adn the motors are back. all i have to do is assemble some of the stuff back.
