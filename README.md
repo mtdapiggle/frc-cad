@@ -2219,3 +2219,20 @@ oh no.
 ![image](https://github.com/user-attachments/assets/243dd625-0693-4647-9078-86bd88214190)
 I'M FREEEEEE
 IT'S FINALLY OVER. 
+
+# extra comments, stuff and reflecting
+uh
+i feel proud.
+to be able to go from just making a goofy modular marble run to a full frc robot (after like 70 ish hours of work and many more hours of doing tutorials and doing stuff from frcdesign.org) just is insane to me
+and i'm really freaking proud of what i've done
+even though it's taken quite a bit of time
+but
+it feels good.
+although the numerous hellish problems i had
+aka that INNER INDEXER GEARBOX
+uh
+yea
+it
+feels 
+good. 
+also i'm not sure how i'm meant to import a .stl file, i htink i'll split the parts up, into like the different subsystems. 
