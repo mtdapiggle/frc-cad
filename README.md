@@ -2140,3 +2140,82 @@ top ten not scuffed moments.
 that's not good.
 ![image](https://github.com/user-attachments/assets/816d7ef2-7f90-4a43-ab04-4c3038fd7a6c)
 all the bearings are back, adn the motors are back. all i have to do is assemble some of the stuff back.
+
+# session 70:
+![image](https://github.com/user-attachments/assets/1a04733d-18dc-4ffe-bee5-fd3702119d4f)
+asdkflsa'dfksalkdfjlsa;kfjsa;lkdjfa;lsdf
+why.
+![image](https://github.com/user-attachments/assets/aaa446d5-5511-4549-854e-eb64759ddabe)
+all the mates have been fixed, i just need to do some pulleys. 
+![image](https://github.com/user-attachments/assets/793914cd-ccb9-4878-bed5-f23b73f44875)
+ohhhhhhhh noooooooooooooooooooooooooooooooo
+![image](https://github.com/user-attachments/assets/0fd53001-99f8-40cb-934d-aa7cb00c0f2a)
+oh heck nah.
+![image](https://github.com/user-attachments/assets/62383839-3c90-4a25-a49e-a75649a0a7e1)
+right i'm dumb, this is pitch diameter, not the actual full diameter including the flange. 
+asdjflkasjdf;lasjfdf
+i think i might be forced to reduce the size of the pulley once again.
+![image](https://github.com/user-attachments/assets/5b647ee0-81c3-4ff2-ae32-4e74372d0a6f)
+that's definitely small enough right. 
+![image](https://github.com/user-attachments/assets/b6c38869-6bef-4f36-ad53-da32d4682582)
+hmmmmmmmmmmm
+i need just something that can up it a bit. 
+![image](https://github.com/user-attachments/assets/21350bdb-e783-4b9f-8601-5ef0011e5f15)
+i realised that i could move the gear anywhere, since i had a lot more space now. 
+i decided to look at 2910's cad to see how much of the shaft is coveerd by the motor
+![image](https://github.com/user-attachments/assets/7d232356-e7f7-46e3-8899-5fbbee07bbf6)
+i'd say that around 80% is covered by the motor, whilst in mine, right now only 50% is covered. i think i should just ditch using the motor to help secure the shaft and just use regular means to secure the shaft. i'll upscale it to a 30 tooth pulley, and keep the 18 tooth on the other end. 
+![image](https://github.com/user-attachments/assets/ffd5acd6-3976-472b-8b54-249af72937d1)
+ohhhh nooo
+![image](https://github.com/user-attachments/assets/2d4b8f87-1a63-4e34-9bce-bca891326d66)
+aw no.
+my scuffed decisions have come back to bite me...
+![image](https://github.com/user-attachments/assets/6d2bc839-ef37-4b9b-a877-c6a1bb90ebbb)
+yeah they've definitely come back.
+![image](https://github.com/user-attachments/assets/632f1929-a5ea-4b96-87a3-8330e1512a0a)
+arghghaksjgdlkaj;gsdf
+![image](https://github.com/user-attachments/assets/d3e1bd7a-5310-4b02-968d-2910e9ac9f19)
+cool, but one hole is missing. 
+![image](https://github.com/user-attachments/assets/ef0a3d03-84da-44e7-9e5e-aaf2b24e6557)
+i think a  rib is missing.
+![image](https://github.com/user-attachments/assets/9d2298fc-b546-4d5b-ab79-6fb9aca6f914)
+alrighty.
+![image](https://github.com/user-attachments/assets/6b69ca7e-a456-46dd-9824-48b80ebcb038)
+i think i need to push it a bit farther away.
+![image](https://github.com/user-attachments/assets/9c540a01-9283-4009-9d53-910dc7d4fde8)
+w-why...
+
+![image](https://github.com/user-attachments/assets/02017884-ac7f-480a-858b-2ba4c63450dc)
+oh.... that's not good. 
+![image](https://github.com/user-attachments/assets/fc65b268-a16d-47f1-a116-417c3d8b5ab9)
+uh\
+![image](https://github.com/user-attachments/assets/9dfaab91-812e-4438-8304-22fc22230dc7)
+noooooooo not againnn
+![image](https://github.com/user-attachments/assets/4e337576-79f3-439f-aafa-9f13adc07261)
+god no
+
+![image](https://github.com/user-attachments/assets/2f537921-4f4b-4040-9496-c047830e9a60)
+asdflkjdsksa;jf;sdf
+it's just problem after problem after problem.
+i try to fix one thing
+antoher pops up. 
+![image](https://github.com/user-attachments/assets/ee7a465d-8287-4cfb-acc7-2b429f5323aa)
+argh.
+![image](https://github.com/user-attachments/assets/a1db0915-b079-46fa-9bc0-e8265a8d776d)
+still some things to take care of. 
+![image](https://github.com/user-attachments/assets/f3477ffa-b170-49aa-8997-227fdde7fc8b)
+taht should work, maybe. 
+![image](https://github.com/user-attachments/assets/af9aa9d5-93d1-4710-948a-0017c79d1226)
+wjhat
+
+![image](https://github.com/user-attachments/assets/c08aa3c5-3dab-4152-9a53-35d1d6d1a338)
+wihfasdjfalskdflksa;fj;kdsaljf;sldafj
+![image](https://github.com/user-attachments/assets/7f222a61-48b5-45bd-bce2-50a545d05312)
+a bunch of gears and fasteneds broke. 
+![image](https://github.com/user-attachments/assets/0ca5afb5-7e7d-4e5b-b7f2-81af59addfdb)
+argh i gotta extend the bottom shaft. 
+![image](https://github.com/user-attachments/assets/eca8181a-f83e-4066-8ec3-21c5340cd7e5)
+oh no.
+![image](https://github.com/user-attachments/assets/243dd625-0693-4647-9078-86bd88214190)
+I'M FREEEEEE
+IT'S FINALLY OVER. 
