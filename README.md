@@ -2236,3 +2236,32 @@ it
 feels 
 good. 
 also i'm not sure how i'm meant to import a .stl file, i htink i'll split the parts up, into like the different subsystems. 
+
+# problems with commiting the .stl file
+![image](https://github.com/user-attachments/assets/e0fbf60f-8b95-42a6-aeb2-eb77433cc3ea)
+asldkfja;ldsf;lkadsj;sadjfds
+whenever i try to select the intake stuff, it proceeds to brick my laptop.
+i also found out, that once you mass select a bunch of things, you can't mass select them again (fun.)
+so i had to mass select, and then deselect the stuff i don't need.
+![image](https://github.com/user-attachments/assets/b8761dbe-e60d-4c9e-afda-221bd7463ac3)
+please work. 
+(it doesn't work. )
+![image](https://github.com/user-attachments/assets/4531aa53-64af-48f0-8552-2e3af88b4a45)
+i tried to make a screen recording to show how i cna't export stuff, but it's too big. 
+![image](https://github.com/user-attachments/assets/2daf447a-12b4-4931-bb99-c9d9b52b10c6)
+ddude even when it's just a minute long, it's still too large. 
+arghhhh
+i'm going to have to use git larger file storage, but i have no idea how to use git. 
+![image](https://github.com/user-attachments/assets/bda87297-c6bf-46d3-bed7-c1066f52ddfd)
+what is going on.
+![image](https://github.com/user-attachments/assets/249adfed-0e9b-453f-ac5a-898e1006f640)
+BRO THERE'S NO EXPORTTTTTT AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+![image](https://github.com/user-attachments/assets/2f2af0c1-8a1a-4199-a156-c854e7425785)
+selecting everything bit by bit is so fun. 
+![image](https://github.com/user-attachments/assets/32ddc9b3-99a5-418e-9e1c-2711e544e313)
+dude i don't wnat to sift through everything ot see what i can't export. 
+![image](https://github.com/user-attachments/assets/1e30b3db-88b6-41b4-bf5c-2646b7961c79)
+128 items.... alksfdj;alksfjk;alsfja;sdfj
+
+WAIT WHY WON'T IT EXPORTTTTT
+argh for some reason i could only export it out as a .step file. i guess that works. 
