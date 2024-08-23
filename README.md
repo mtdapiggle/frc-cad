@@ -1,6 +1,8 @@
 # frc-cad
 bad frc cadding (top tier frc cadders number one fear)
 
+this is my ~~bad~~ fun experience of cadding an frc robot, all it does is move around, intake balls and shoot them. uh that's it
+
 # session 1:
 i wanted to make a full frc robot (that may look good on paper but will probably go badly in real life), without knowing how to (it's bound to go well.) i decided to start this by planning what kind of frc robot i wanted to make. after like 15 minute of pondering and looking at game animations, i chose 2020/2021, because it looks easy (probably isn't.) 
 i then scoured chief delphi for different types of subsystems and pick the ones that i want/would be feasible for me to cad/would be effective
