@@ -1,3 +1,17 @@
+
+![image](https://github.com/user-attachments/assets/b270f07a-ae98-49eb-aac2-74caa72c9d6e)
+the finished robot
+with lots of mate connectors visible.
+idk how to get rid of them, without getting rid of the belts. 
+![image](https://github.com/user-attachments/assets/98da01b6-c870-4690-acad-98ddceebb492)
+well i got rid of them, so this is the finished robot without mate connectors covering everything, although there still are some.
+![image](https://github.com/user-attachments/assets/c4c2067f-f069-49ff-87c3-5b52a8227933)
+epic back view (without belts)
+![image](https://github.com/user-attachments/assets/76d65e30-6607-42ed-923a-2140e85e5a90)
+back view (with belts)
+
+printables link: https://www.printables.com/model/998150-random-frc-stuff
+
 # frc-cad
 bad frc cadding (top tier frc cadders number one fear)
 
